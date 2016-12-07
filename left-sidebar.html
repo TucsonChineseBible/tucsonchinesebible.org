@@ -1,0 +1,390 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>The Holy Bible: A Dynamic Chinese Translation</title>
+
+<style type="text/css">
+/*margin and padding on body element
+  can introduce errors in determining
+  element position and are not recommended;
+  we turn them off as a foundation for YUI
+  CSS treatments. */
+body {
+	margin:0;
+	padding:0;
+}
+</style>
+
+<link rel="stylesheet" type="text/css" href="yui/build/fonts/fonts-min.css" />
+<link rel="stylesheet" type="text/css" href="yui/build/treeview/assets/skins/sam/treeview.css" />
+<script type="text/javascript" src="yui/build/yahoo/yahoo.js"></script>
+<script type="text/javascript" src="yui/build/event/event.js"></script>
+<script type="text/javascript" src="yui/build/treeview/treeview.js"></script>
+
+
+<!--begin custom header content for this example-->
+<!--bring in the folder-style CSS for the TreeView Control-->
+<link rel="stylesheet" type="text/css" href="assets/css/menu/tree.css">
+
+<!-- Some custom style for the expand/contract section-->
+<style>
+#expandcontractdiv {border:1px dotted #dedede; background-color:#EBE4F2; margin:0 0 .5em 0; padding:0.4em;}
+#treeDiv1 { background: #fff; padding:1em; margin-top:1em; }
+</style>
+<!--end custom header content for this example-->
+
+</head>
+
+<body class="yui-skin-sam">
+
+<div style="text-align: center; background-color: #EEE8CD;">
+<br/>
+<p><small><a href="content.html" target="Content">TucsonChineseBible.org</small></p>
+<h2>TCBS</a></h2>
+<p><small>Tucson Chinese Bible Society</small></p>
+<p>&copy;2001-<br/>
+   <a href="content.html" target="Content">凸桑中文聖經協會</a></p>
+<br/>
+</div>
+<!--BEGIN SOURCE CODE FOR EXAMPLE =============================== -->
+<div id="expandcontractdiv" style="text-align: center;">
+<big><a href="cn/index.html" target="_parent">切换至简体中文</a></big>
+</div>
+
+<!-- markup for expand/contract links -->
+<div>
+	<a id="collapse" href="#">Collapse all</a>
+</div>
+
+<div id="treeDiv1" class="exampleIntro"></div>
+
+<script type="text/javascript">
+//an anonymous function wraps our code to keep our variables
+//in function scope rather than in the global namespace:
+(function() {
+	var tree; //will hold our TreeView instance
+
+	function treeInit() {
+
+		YAHOO.log("Example's treeInit function firing.", "info", "example");
+
+		//Hand off ot a method that randomly generates tree nodes:
+		buildRandomTextNodeTree();
+
+		//handler for collapsing all nodes
+		YAHOO.util.Event.on("collapse", "click", function(e) {
+			YAHOO.log("Collapsing all TreeView  nodes.", "info", "example");
+			tree.collapseAll();
+			YAHOO.util.Event.preventDefault(e);
+		});
+	}
+
+	var bible = new Array(
+	 "舊約(OT)",
+	 "新約(NT)"
+	);
+
+	var books_name_ot = new Array (
+	 "創世記",
+	 "出埃及記",
+	 "詩篇",
+	 "箴言",
+	 "約拿書"
+	);
+
+	var books_en_name_ot = new Array (
+	 "Ge",
+	 "Ex",
+	 "Ps",
+	 "Pr",
+	 "Jnh"
+	);
+
+	var books_file_ot = new Array (
+	 "gen",
+	 "exd",
+	 "pslm",
+	 "prvb",
+	 "Jonah"
+	);
+
+	var chapters_ot = new Array (
+	 50,
+	 20,
+	 150,
+	 31,
+	 4
+	);
+
+	var books_name_nt = new Array (
+	 "馬太福音",
+	 "馬可福音",
+	 "路加福音",
+	 "約翰福音",
+	 "使徒行傳",
+	 "羅馬書",
+	 "哥林多前書",
+	 "哥林多後書",
+	 "加拉太書",
+	 "以弗所書",
+	 "腓立比書",
+	 "歌羅西書",
+	 "帖撒羅尼迦前書",
+	 "帖撒羅尼迦後書",
+	 "提摩太前書",
+	 "提摩太後書",
+	 "提多書",
+	 "腓利門書",
+	 "希伯來書",
+	 "雅各書",
+	 "彼得前書",
+	 "彼得後書",
+	 "約翰一書",
+	 "約翰二書",
+	 "約翰三書",
+	 "猶大書",
+	 "啟示錄"
+	);
+
+	var books_en_name_nt = new Array (
+	 "Mt",
+	 "Mk",
+	 "Lk",
+	 "Jn",
+	 "Ac",
+	 "Ro",
+	 "1Co",
+	 "2Co",
+	 "Gal",
+	 "Eph",
+	 "Php",
+	 "Col",
+	 "1Th",
+	 "2Th",
+	 "1Ti",
+	 "2Ti",
+	 "Tit",
+	 "Phm",
+	 "Heb",
+	 "Jas",
+	 "1Pe",
+	 "2Pe",
+	 "1Jn",
+	 "2Jn",
+	 "3Jn",
+	 "Jude",
+	 "Rev"
+	);
+
+	var books_file_nt = new Array (
+	 "mat",
+	 "mark",
+	 "luke",
+	 "john",
+	 "act",
+	 "rom",
+	 "1cor",
+	 "2cor",
+	 "gal",
+	 "eph",
+	 "phi",
+	 "col",
+	 "1the",
+	 "2the",
+	 "1tim",
+	 "2tim",
+	 "tit",
+	 "phm",
+	 "heb",
+	 "jam",
+	 "1pet",
+	 "2pet",
+	 "1john",
+	 "2john",
+	 "3john",
+	 "jud",
+	 "rev" 
+	);
+
+	var chapters_nt = new Array (
+	 28,
+	 16,
+	 24,
+	 21,
+	 28,
+	 16,
+	 16,
+	 13,
+	 6,
+	 6,
+	 4,
+	 4,
+	 5,
+	 3,
+	 6,
+	 4,
+	 3,
+	 1,
+	 13,
+	 5,
+	 5,
+	 3,
+	 5,
+	 1,
+	 1,
+	 1,
+	 22
+	);
+
+	//This method will build a TreeView instance and populate it with
+	//between 3 and 7 top-level nodes
+	function buildRandomTextNodeTree() {
+
+		//instantiate the tree:
+		tree = new YAHOO.widget.TreeView("treeDiv1");
+
+		var homeLink = { label: "回簡明聖經主頁", href:"content.html", target:"Content" };
+		new YAHOO.widget.MenuNode(homeLink, tree.getRoot(), false);
+
+		var audioLink = { label: "經文朗讀<br>(Audio Version)", href:"audio.php", target:"Content" };
+		new YAHOO.widget.MenuNode(audioLink, tree.getRoot(), false);
+
+		var palmLink = { label: "新約 for Palm Bible+ w/ Chinese OS (下載)", href:"jmsj/palm/jmsj.PDB", target:"Content" };
+		new YAHOO.widget.MenuNode(palmLink, tree.getRoot(), false);
+
+		//create top-level nodes
+		for (var i = 0; i < bible.length; i++) {
+			var tmpNode = new YAHOO.widget.MenuNode(bible[i], tree.getRoot(), false);
+
+			//we'll delegate to another function to build child nodes:
+			if (i==0) {
+				// build books of old testament
+				buildBooks_ot (tmpNode);
+			}
+			else {
+                              	// build books of new testament
+				buildBooks_nt(tmpNode);
+
+			}
+
+
+		}
+
+		//once it's all built out, we need to render
+		//our TreeView instance:
+		tree.draw();
+	}
+
+	function buildBooks_ot(node) {
+			YAHOO.log("buildBooks_ot: " + node.index);
+			for ( var i = 0; i < books_name_ot.length ; i++ ) {
+
+				var tmpNode = new YAHOO.widget.MenuNode(books_name_ot[i]+ "("+ books_en_name_ot[i] + ")", node, false);
+
+				if (chapters_ot[i] > 10) {
+				  // break chapters in 10
+				  breakChapters_ot (i, tmpNode);
+				}
+				else {
+
+                                  buildChapters_ot(0, i, tmpNode);
+				}
+			}
+	}
+
+	function buildBooks_nt(node) {
+			YAHOO.log("buildBooks_nt: " + node.index);
+			for ( var i = 0; i < books_name_nt.length ; i++ ) {
+
+				var tmpNode = new YAHOO.widget.MenuNode(books_name_nt[i]+ "("+ books_en_name_nt[i] + ")", node, false);
+	
+				if (chapters_nt[i] > 10) {
+				  // break chapters in 10
+				  breakChapters_nt (i, tmpNode);
+				}
+				else {
+
+                                  buildChapters_nt(0, i, tmpNode);
+				}
+
+			}
+	}
+
+	function breakChapters_ot(n, node) {
+	
+			var chapter_string = (chapters_ot[n]==150?"篇":"章");
+
+			YAHOO.log("breakChapters_ot: " + node.index);
+			for ( var i = 0; i <  chapters_ot[n] ; i+=10 ) {
+                                var last = (i+10) < chapters_ot[n] ? (i+10) : chapters_ot[n];
+                                if ((i+1) != last) {
+
+				  var tmpNode = new YAHOO.widget.MenuNode("第" + (i+1) + " ~ " + last + chapter_string, node, false);
+				  buildChapters_ot (i, n, tmpNode);
+                                }
+                                else {
+                                  buildChapters_ot (i, n, node);
+                                }
+			}
+	}
+
+	function breakChapters_nt(n, node) {
+			YAHOO.log("breakChapters_nt: " + node.index);
+			for ( var i = 0; i <  chapters_nt[n] ; i+=10 ) {
+                                var last = (i+10) < chapters_nt[n] ? (i+10) : chapters_nt[n];
+                                if ((i+1) != last) {
+
+				  var tmpNode = new YAHOO.widget.MenuNode("第" + (i+1) + " ~ " + last + "章", node, false);
+				  buildChapters_nt (i, n, tmpNode);
+                                }
+                                else {
+                                  buildChapters_nt (i, n, node);
+                                }
+			}
+	}
+
+	function buildChapters_ot(k, n, node) {
+
+			var chapter_string = (chapters_ot[n]==150?"篇":"章");
+			var max = chapters_ot[n] < k+10 ? chapters_ot[n] : k+10;
+			for ( var i = k; i < max ; i++ ) {
+
+				var myobj = { label: "第" + (i+1) + chapter_string, href:"pdf/" + books_file_ot[n] + (i+1) + ".pdf", target:"Content" };
+				var tmpNode = new YAHOO.widget.MenuNode(myobj, node, false);
+
+			}
+	}
+
+
+	function buildChapters_nt(k, n, node) {
+			var max = chapters_nt[n] < k+10 ? chapters_nt[n] : k+10;
+			for ( var i = k; i < max ; i++ ) {
+
+				var myobj = { label: "第" + (i+1) + "章", href:"pdf/" + books_file_nt[n] + (i+1) + ".pdf", target:"Content" };
+				var tmpNode = new YAHOO.widget.MenuNode(myobj, node, false);
+
+			}
+	}
+
+
+	//When the DOM is done loading, we can initialize our TreeView
+	//instance:
+	YAHOO.util.Event.onDOMReady(treeInit);
+
+})();//anonymous function wrapper closed; () notation executes function
+
+</script>
+
+<!--END SOURCE CODE FOR EXAMPLE =============================== -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-702706-1";
+urchinTracker();
+</script>
+
+</body>
+</html>
+

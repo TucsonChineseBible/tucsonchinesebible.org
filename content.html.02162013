@@ -1,0 +1,1771 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>新譯簡明聖經 The Holy Bible: A Dynamic Chinese Translation</title>
+    <style type="text/css">
+/*margin and padding on body element
+  can introduce errors in determining
+  element position and are not recommended;
+  we turn them off as a foundation for YUI
+  CSS treatments. */
+body {
+	margin:0;
+	padding:0;
+}
+  </style>
+    <link rel="stylesheet" type="text/css"
+      href="yui/build/fonts/fonts-min.css">
+    <link rel="stylesheet" type="text/css"
+      href="yui/build/tabview/assets/skins/sam/tabview.css">
+    <script type="text/javascript" src="yui/build/yahoo-dom-event/yahoo-dom-event.js"></script>
+    <script type="text/javascript" src="yui/build/element/element-beta.js"></script>
+    <script type="text/javascript" src="yui/build/tabview/tabview.js"></script><!--there is no custom header content for this example-->
+  </head>
+  <body class="yui-skin-sam">
+    <br>
+    <table align="center">
+      <tbody>
+        <tr>
+          <td><a href="cover_large.jpg"><img src="cover.jpg" width="168"></a></td>
+          <td>
+            <h1 style="text-align: center;">新譯簡明聖經<br>
+              <small><font size="smaller" face="verdana"><small>The Holy
+                    Bible: A Dynamic Chinese Translation</small></font></small></h1>
+            <div class="exampleIntro">
+              <p style="text-align: center;"><big><small>The Official
+                    Website of Tucson Chinese Bible Society</small><br>
+                  <br>
+                </big></p>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <!--BEGIN SOURCE CODE FOR EXAMPLE =============================== -->
+    <div id="demo" class="yui-navset">
+      <div align="center">
+        <ul class="yui-nav">
+          <li><a href="#tab_about"><em>ABOUT THIS BIBLE</em></a></li>
+          <li><a href="#tab1"><em>簡介</em></a></li>
+          <li><a href="#tab2"><em>序言</em></a></li>
+          <li class="selected"><a href="#tab3"><em>最新消息</em></a></li>
+          <li><a href="#tab4"><em>《簡明聖經》的翻譯和見證</em></a></li>
+          <li><a href="#tab5"><em>《簡明聖經》和其他聖經經文對照舉例</em></a></li>
+          <!--li><a href="#tab_reader"><em>讀者來信</em></a></li-->
+          <li><a href="#tab_order"><em>訂購 Order</em></a></li>
+          <li><a href="#tab_donate"><em>代禱、奉獻 Prayer &amp; Donation</em></a></li>
+          <li><a href="#tab_contact"><em>連絡資訊 Contact</em></a></li>
+          <li><a href="#tab_copyright"><em>版權聲明 Copyright</em></a></li>
+          <li><a href="#tab_links"><em>其他聖經網站</em></a></li>
+        </ul>
+      </div>
+      <div class="yui-content">
+        <div id="tab_about">
+          <div style="text-align: center;"><big style="font-weight:
+              bold;"><big><br>
+              </big></big>
+            <div style="text-align: left;">
+              <meta http-equiv="Content-Type" content="text/html;
+                charset=UTF-8">
+              <p><big style="font-weight: bold;"><big>ABOUT THIS BIBLE</big></big>&nbsp;(written
+
+
+
+                by Gene Hsiao, translator of&nbsp;<span
+                  style="text-decoration: underline;">Jian Ming Sheng
+                  Jing</span>&nbsp;(Bible in simple and easy to
+                understand Chinese, hereafter&nbsp;<span
+                  style="text-decoration: underline;">JMSJ</span>)
+                =&nbsp;<span style="text-decoration: underline;">The
+                  Holy Bible:&nbsp;&nbsp;A Dynamic Chinese Translation</span>)</p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In
+                1991, I was touched by the Holy Spirit and started
+                proclaiming the Gospel.&nbsp;&nbsp;&nbsp;&nbsp;When I
+                tried to share the Good News with Chinese speakers, they
+                often complained that Chinese translations of the Bible
+                were very hard to understand.</p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After
+                many prayers, I decided to work on a new Chinese
+                translation.&nbsp;&nbsp;In the existing Chinese
+                versions, the translators tried to render each word in
+                the original text into Chinese and to preserve the
+                original word order and sentence
+                structure.&nbsp;&nbsp;The result is something that
+                doesn‘t sound like Chinese, thus is not very
+                understandable to the Chinese reader.&nbsp;</p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In my
+                rendition, I tried to first get a thorough understanding
+                of the passage I was going to translate, and then
+                restate in simple and easy to understand Chinese the
+                events, ideas, and truth it contains according to the
+                Chinese sentence structure, thought pattern, and
+                cultural background.</p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I based
+                my translation on&nbsp;<span style="text-decoration:
+                  underline;">The Holy Bible, the New International
+                  Version</span>&nbsp;and&nbsp;<span
+                  style="text-decoration: underline;">The New American
+                  Standard Bible</span>.&nbsp;&nbsp;Then I checked the
+                draft against other English as well as Chinese versions
+                available to safeguard against any discrepancy from the
+                original.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Even though the
+                Bible consists of 66 books, many Bible teachers, due to
+                time constraint, after finishing Genesis and the first
+                20 chapters of Exodus, go directly to the New
+                Testament.&nbsp;&nbsp;In order to help people studying
+                the Bible that way, after finishing the translation of
+                these parts in July 2006, I had them published as one
+                volume in&nbsp;Taipei.</p>
+              <p>RESPONSES TO
+                THIS BIBLE:</p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Responses
+
+
+
+                to this Bible are very enthusiastic.&nbsp;&nbsp;Below
+                are some examples:</p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Many
+                readers told us that they would fall asleep when trying
+                to read other Chinese Bibles.&nbsp;&nbsp;But now&nbsp;<span
+                  style="text-decoration: underline;">JMSJ</span>&nbsp;is
+
+
+
+                so easy to understand that once they pick it up, they
+                can‘t put it down.&nbsp;</p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Many
+                people reported that their family members, relatives, or
+                friends had accepted Jesus Christ after reading&nbsp;<span
+                  style="text-decoration: underline;">JMSJ</span>.</p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ministers
+
+
+
+                at&nbsp;Taipei&nbsp;Gospel&nbsp;Center&nbsp;for Services
+                Workers told us that&nbsp;<span style="text-decoration:
+                  underline;">JMSJ</span>&nbsp;was the kind of Bible
+                which they had been looking for and which could be used
+                to share the Gospel with the masses.</p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An
+                86-year old believer wrote us that&nbsp;<span
+                  style="text-decoration: underline;">JMSJ</span>&nbsp;was
+
+
+
+                easy to understand for the new believer and for the less
+                educated.&nbsp;</p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An
+                elementary school boy in&nbsp;Central Taiwan&nbsp;won
+                the first place in a regional writing
+                contest.&nbsp;&nbsp;When a reporter interviewed and
+                asked him, among other things,</p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“What
+                do you enjoy doing most at your leisure?”&nbsp;</p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The boy
+                answered, “I enjoy reading&nbsp;<span
+                  style="text-decoration: underline;">JMSJ</span>&nbsp;the
+
+
+                most.”</p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A
+                mother in&nbsp;Southern Taiwan&nbsp;used to have her
+                eight-year boy watch TV on Saturday before
+                lunch.&nbsp;&nbsp;Then she got&nbsp;<span
+                  style="text-decoration: underline;">JMSJ</span>&nbsp;and
+
+
+                started reading it together with him.&nbsp;&nbsp;When
+                the lunch time came, she said,</p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Let‘s
+                put the Bible away and have lunch.”&nbsp;&nbsp;But her
+                boy responded,</p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“No!
+                Mom.&nbsp;&nbsp;I want to continue reading it!”</p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Churches
+
+
+
+                started ordering&nbsp;<span style="text-decoration:
+                  underline;">JMSJ</span>&nbsp;not only for their
+                congregations, but also for their ministries to
+                Mainland&nbsp;China.</p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A
+                pastor calling to order&nbsp;<span
+                  style="text-decoration: underline;">JMSJ</span>&nbsp;said,
+
+
+                “The reason the Gospel is not being spread fast in the
+                Chinese community is that not many Chinese are reading
+                the Bible.&nbsp;&nbsp;And the reason not many Chinese
+                are reading the Bible is that Chinese Bibles are very
+                hard to understand.&nbsp;<span style="text-decoration:
+                  underline;">JMSJ</span>&nbsp;is a Bible every church
+                should use.”</p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Many
+                college as well as theological seminary students
+                ordered&nbsp;<span style="text-decoration: underline;">JMSJ</span>&nbsp;because
+
+
+
+                their professors considered it very well translated and
+                advised them to read it.&nbsp;</p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rev.
+
+
+
+                Dr. Stephen Tong, well-known pastor and evangelist
+                invited us to distribute&nbsp;<span
+                  style="text-decoration: underline;">JMSJ</span>&nbsp;at
+
+
+                Huai-en T’ang Church,&nbsp;Taipei, where he was giving a
+                series of lectures on the Bible from March to June 2007.</p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hong
+
+
+
+                Yu Chen , M.D., a deacon at&nbsp;Columbia Chinese
+                Baptist Church,&nbsp;Maryland, wrote me, “I have been
+                searching for a new Chinese translation for the Bible
+                for a long time. I learned about your translation
+                through the new version of&nbsp;<span
+                  style="text-decoration: underline;">Chinese Treasures</span>&nbsp;by
+
+
+
+                the Digital Bible Society.&nbsp;&nbsp;The English
+                speaking Christians are blessed by various translations
+                available to them. I think the Chinese only speaking
+                Christians are very much handicapped by the old
+                translation (the Union Version first published in
+                1919).&nbsp;&nbsp;Some other attempts have not been too
+                successful, in my opinion.&nbsp;&nbsp;I am happy you are
+                willing and ‘brave’ enough to think ‘outside the box,’
+                so your new translation is much more readable.
+                “&nbsp;&nbsp;Again Dr. Chen&nbsp;&nbsp;wrote, “The more
+                I read your translation, the more I appreciate the value
+                of your effort.&nbsp;&nbsp;When I am reading your
+                translation, it seems there is a gentle, kind, and
+                compassionate elder in Christ who is so excited about
+                His Word that he is very eager to help me understand the
+                beauty of His Word. I believe this kind of natural
+                outflow of Grace is one of the reasons so many people
+                are touched by your new translation.”</p>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Such
+
+
+
+                responses are very encouraging to me.&nbsp;&nbsp;So it
+                is my plan to complete the translation of the whole Old
+                Testament.&nbsp;</p>
+              <big><small>
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Meanwhile,
+                  to meet the great demand and to let me concentrate on
+                  translating, Taosheng Publishing House,&nbsp;Taipei,
+                  has taken over the publishing and distribution of the
+                  present volume.&nbsp;&nbsp;The second edition will be
+                  available in traditional- and simplified-character
+                  versions.</small>
+              </big></div>
+          </div>
+        </div>
+        <div id="tab1">
+          <div style="text-align: center;"><big style="font-weight:
+              bold;"><big><br>
+              </big></big>
+            <div style="text-align: left;"><big style="font-weight:
+                bold;"><big>簡 介 Introduction</big></big><br>
+            </div>
+          </div>
+          <p style="text-align: left;"><big> 歡迎光臨凸桑中文聖經協會網站。本協會是<a
+                href="http://tucsonchinesechristianchurch.org/index.php?lang=zh_TW"
+                target="_blank">土桑華人基督教會</a>事工之一，致力於翻譯及推廣中文聖經。</big></p>
+          <p style="font-size: smaller; font-family: verdana;
+            text-align: left;"><big>Thank you for visiting the official
+              website of Tucson Chinese Bible Society. <br>
+              As a ministry of <a
+                href="http://tucsonchinesechristianchurch.org/index.php?lang=en_US"
+                target="_blank">Tucson Chinese Christian Church</a>, we
+              are dedicated to the Chinese translation and distribution
+              of The Holy Bible.</big></p>
+          <li style="text-align: left; font-weight: bold;"><big>翻譯特 色：
+              新譯, 好讀, 好懂.</big></li>
+        </div>
+        <div id="tab2">
+          <div style="text-align: center;"><big><big><span
+                  style="font-weight: bold;"><br>
+                  <br>
+                </span><span style="font-weight: bold;">序 言 Preface</span></big></big><br>
+          </div>
+          <p><big>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              原來用希伯來文和希臘文所寫的聖經，包括舊約三十九卷、新約二十七卷。但是傳揚福音刻不容緩，而且許多大學學生團契在研讀聖
+              經時，由於時間有限，讀完舊約
+              第一卷《創世記》和第二卷《出埃及記》的一到二十章(談到十誡)之後，就進入新約，因此《簡明聖經》先出版這些部分，以滿足
+              大學學生團契的需要。其他部分 以後再行增補。<br>
+            </big> </p>
+          <p><big>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              這本聖經是以英文版一九八四年發行的The Holy Bible, New International
+              Version和一九七七年發行的New American Standard
+              Bible為基礎，譯出後再參考其他中、英文版本，加以修改而成的。<br>
+            </big></p>
+          <p><big>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              翻譯聖經基本上有兩個方法：就是形式上的翻譯和意義上的翻譯。形式上的翻譯 (formal equivalence
+              translation, 或者 word-for-word
+              translation)：是按照原文詞語的次序和句子的結構，一個字一個字、一個句子一個句子地翻譯過來。意義上的翻譯
+              (functional equivalence translation, 或者dynamic equivalence
+              translation, 或者 thought-for-thought
+              translation)：是全面了解經文之後，再把其中所敘述的事情、所教導的真理、和所使用的語氣跟節奏，用中文的思考
+              方式和語言習慣表達出來。 我們翻譯《簡明聖經》就是採取這個辦法。其他還遵照以下幾個原則： </big> </p>
+          <table cellpadding="3">
+            <tbody>
+              <tr valign="top">
+                <big> </big><td><big> </big>
+                  <ul>
+                    <big> </big>
+                    <li><big>避用宗教術語，使所有讀者，不管是或不是基督徒，都能看懂。</big></li>
+                    <big> </big>
+                  </ul>
+                  <big> </big></td>
+                <big> </big></tr>
+              <tr valign="top">
+                <big> </big><td><big> </big>
+                  <ul>
+                    <big> </big>
+                    <li><big>力求明確，以便讀者了解、實踐：例如，英文的 “righteous”
+                        如果翻譯為「義」，讀者可能誤會是中國傳統所說的「正義」；那麼要達到「義」，只要照中國傳統的觀念，
+                        去做一些「正義」的事就可以。同樣地， “righteous man”
+                        如果翻譯為「義人」，讀者可能誤會是中國傳統所說的「有正義感」或「講義氣」的人；那麼，要做個「義
+                        人」，只要照中國傳統的觀念，「見義勇為」或「仗義疏 財」就行。然而實際上聖經所說的
+                        “righteous” 是指上帝認為好的或對的； “righteous man”
+                        是指被上帝看成正直清白的人。因此本書把 “righteous” 翻譯為
+                        「上帝認為好的」或「上帝所喜歡的」；把 “righteous man”
+                        翻譯為「被上帝看成正直清白的人」。我們認為這樣的譯法，可以使讀者獲得比較明確的觀念。同樣地，某些
+                        中文聖經把《羅馬書》一章17節的 “The righteous will live by
+                        faith”
+                        翻譯為「義人必因信得生」，本書把它翻譯為「因為信心而被上帝看成正直清白的人，一定獲得永生」。我們
+                        認為這樣的翻譯比較能使讀者明白正確的教導。</big></li>
+                    <big> </big>
+                  </ul>
+                  <big> </big></td>
+                <big> </big></tr>
+              <tr valign="top">
+                <big> </big><td><big> </big>
+                  <ul>
+                    <big> </big>
+                    <li><big>使用具有實際內容的詞語：例如，英文的“Christ”
+                        如果翻譯為「基督」，對非基督徒來說，只是空洞的聲音，沒有實際的內容。如果照它的原意 “the
+                        Anointed One”
+                        而翻譯為「被按立的」，讀起來又很拗口。但《路加福音》二章11節說基督就是救主，所以我們把這個詞語
+                        翻譯為「救主基督」，既表達聲音又顯示內容，對讀者 較有幫助。又如， “Son of Man”
+                        如果翻譯為「人子」，非基督徒可能誤以為是「人的兒子」。所以本書在「人子」之後加上[救主基督]給以
+                        說明，使讀者明白「人子」的真正意思。</big></li>
+                    <big> </big>
+                  </ul>
+                  <big> </big></td>
+                <big> </big></tr>
+              <tr valign="top">
+                <big> </big><td><big> </big>
+                  <ul>
+                    <big> </big>
+                    <li><big>採用一般人慣用的詞語：例如， “law”
+                        許多版本翻譯為「律法」。但「律法」不是中文慣用的詞語，恐使讀者疑惑；所以本書以中國人所慣用的「法
+                        律」來代替，必要時在前面加上「摩西」，成為「摩西
+                        法律」，表示這法律是指摩西法律，而不是一般法律。</big></li>
+                    <big> </big>
+                  </ul>
+                  <big> </big></td>
+                <big> </big></tr>
+              <tr valign="top">
+                <big> </big><td><big> </big>
+                  <ul>
+                    <big> </big>
+                    <li><big>使用容易從聲音上辨別的詞語：我們希望本書將來也以錄音形式發行。為使聽者得到正確的信息，
+                        我們盡量使用容易根據語音
+                        辨別的字眼。例如，用「女人」而不用「婦人」，以免和「富人」混淆；用「聖殿裡面」而不用「殿裡」，以
+                        免和「店裡」混淆；用「皮囊」而不用「皮袋」，以免 和「皮帶」混淆。</big></li>
+                    <big> </big>
+                  </ul>
+                  <big> </big></td>
+                <big> </big></tr>
+              <tr valign="top">
+                <big> </big><td><big> </big>
+                  <ul>
+                    <big> </big>
+                    <li><big>模仿中國人名的格局：一般中國人名都有含意，也顯示性別。本書翻譯人名，有時也模仿這個格
+                        局，使讀者閱讀時容易投入。
+                        所用的人名如果和其他版本的不同，便把那不同的人名放在方形括弧內的「別譯」之後，以便讀者對照。例
+                        如，《馬太福音》十四章提到希律王誘娶弟媳婦的事，其
+                        他版本把那弟媳婦的名字翻譯為希羅底，聽起來沒有女性的味道；所以本書把它改譯為施綠蒂，後面加上[別
+                        譯希羅底]。另外，《使徒行傳》十八章提到一對信耶
+                        穌的夫婦，某些版本把他們的名字翻譯為亞居拉和百基拉，很難看出哪個是丈夫，哪個是妻子；所以本書把妻
+                        子的名字改譯為浦麗絲，後面加上[別譯百基拉]。</big></li>
+                    <big> </big>
+                  </ul>
+                  <big> </big></td>
+                <big> </big></tr>
+              <tr valign="top">
+                <big> </big><td><big> </big>
+                  <ul>
+                    <big> </big>
+                    <li><big>對讀者可能誤解或難解的經文，用方形括弧加上說明：例如，《使徒行傳》二十四章15節，“I
+                        have the same hope in God as these men, that
+                        there will be a resurrection of both the
+                        righteous and the wicked” (根據New International
+                        Version)。這節照書面翻譯出來是：「我和這些人對上帝有同樣的盼望，就是他將使義人和惡人復
+                        活。」但這譯法可能使讀者以為「義人」和「惡人」是指
+                        「正義的人」和「邪惡的人」；而且，既然惡人也將和義人一樣復活，那麼就不需要信耶穌了。為了避免這種
+                        誤解，本書用括弧加上說明，把它譯成：「我和這些人
+                        對上帝有同樣的盼望，就是他將使義人[也就是信基督的人]和惡人[也就是不信基督的人]都復活。[義人
+                        將復活而得永生；惡人將復活而受審判。]」有人以為
+                        翻譯聖經必須「按照原文，不可增減一字」，所以像我們這樣做是不可以的。但我們認為「按照原文，不可增
+                        減一字」，不是說在字面上不可增減一字，
+                        而是說不可加進原文本來沒有的意思，或者減去原文本來有的意思。只要不違背聖經的原意，為了使讀者得到
+                        正確的了解，加進補充說明，應該是可以的。(為了方
+                        便朗讀，我們用[]加入的補充材料力求和前後的經文順暢連接。但有些補充材料不得已用註解的形式出現。
+                        這樣的材料朗讀時可以跳過不讀；例如，《希伯來書》
+                        一章6節，「上帝把他這長子[長子是指耶穌。他本來是上帝的獨生子，但上帝把信耶穌的人也收為兒女，所
+                        以耶穌成為上帝眾多兒女中的長子]帶到世上來的時 候」，這段譯文裡面 用[
+                        ]標出的部分可以不讀出來。)</big></li>
+                    <big> </big>
+                  </ul>
+                  <big> </big></td>
+                <big> </big></tr>
+              <tr valign="top">
+                <big> </big><td><big> </big>
+                  <ul>
+                    <big> </big>
+                    <li><big>避用不妥的傳統譯法：本書的譯文有些地方不同於其他版本。這是經過細心研究和思考後所得的結
+                        果，請讀者不要驟下結論，
+                        以為是錯的。例如，《使徒行傳》十六章30節，獄卒問保羅和西拉說：「先生，我該怎麼辦，才能得救
+                        呢？」保羅和西拉的回答出現於
+                        下一節，其他版本幾乎都把它翻譯為：「當信主耶穌，你和你全家都必得救。」這個譯法導致今日廣泛流傳的
+                        「一人得救，全家得救」的說法；就是：一家裡面只要
+                        有一人信耶穌而得救，其他人不信耶穌，也能得救。這是不對的。我們遍讀英文版本，認為這節應該翻譯為：
+                        「信奉主耶穌，就能得救。你家裡的其他每一個人也都 可以這樣做。」這個譯法才符合主耶穌的教導。</big></li>
+                    <big> </big>
+                  </ul>
+                  <big> </big></td>
+                <big> </big></tr>
+              <tr valign="top">
+                <big> </big><td><big> </big>
+                  <ul>
+                    <big> </big>
+                    <li><big>度量衡都以現在國際通用的公制換算後譯出。</big></li>
+                    <big> </big>
+                  </ul>
+                  <big> </big></td>
+                <big> </big></tr>
+            </tbody>
+          </table>
+          <big><br>
+          </big>
+          <p><big>&nbsp; &nbsp; &nbsp;
+              《馬太福音》七章28,29節說猶太人對耶穌的教導很覺稀奇，因為他講道的時候，很有權威，和摩西法律教師不同。《約翰福
+              音》七章46節也引用聖殿警衛的
+              話說，從來沒有人講話像耶穌那樣令人敬畏的。我們可以從聖經知道，聽耶穌講道的人當中，有許多是屬於下層社會的。他說話能震
+              撼他們的肺腑，首先當然是因為
+              他有超凡的能力，另外一個可能的原因是他所用的語言是新鮮、活潑，容易明白的。因此，我們的翻譯也盡量使用新鮮、活潑、容易
+              明白的語言，好讓讀者覺得裡面
+              所寫的事情，就像發生在他自己的時代、自己的生活當中，因此其中的教導對他的生活、做事、為人也有幫助。<br>
+              <br>
+            </big> <big> &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;
+              聖經是上帝藉著先知和使徒所寫的，裡面的經文完美無缺。然而要把它翻譯到另外一種語言，難免有不完善的地方。所以我們翻譯的
+              時候，一直祈求上帝的引導和從
+              他而來的智慧。現在我們更祈求他悅納、祝福這個譯本，帶領人們來閱讀；使初讀聖經的人容易了解福音的真理，熟讀聖經的人有更
+              加深入、正確的領悟。我們希望 所有讀到這本聖經的人，都越讀越喜歡讀，越來越順服上帝，越來越有平安和喜樂！<br>
+              <br>
+            </big> <big> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              傳揚福音是所有基督徒的使命。我們希望弟兄姊妹們對這個譯本能提出建設性的批評和指正，讓我們可以把它修改得更加準確易讀，
+              使福音更加順利地傳開。願一切 榮耀歸給上帝！</big> <big><br>
+            </big></p>
+        </div>
+        <div id="tab3">
+          <p><big><big><br>
+                &nbsp;&nbsp;<span style="font-weight: bold;"> </span></big><span
+                style="font-weight: bold;">出版消息</span>：《簡 明聖
+              經》於2006年7月首次出版，很快
+              就被索取一空。次年1月增印，也很快就又沒書了。2008年4月已由台北道聲出版社再版。
+              需要者可用「訂購」(Order) 欄中的電話或地址洽購。<br>
+              <br>
+            </big> <big> &nbsp;&nbsp; <span style="font-weight: bold;">經
+                文朗讀</span>：《簡明聖經》<a href="audio.php">朗讀版</a>
+              已經開始在此分卷登載，請大家試聽，並且把遇到的問題告訴我們，以便改進。我們計劃全書錄音及修改完成後，將向需要者提供全
+              套朗讀版。敬請期待！ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+            </big> </p>
+          <p><big> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+              感謝上帝！他使這本聖經廣受喜愛。<br>
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+              有神學教授告訴我們，他們仔細研讀、對照過裡面的譯文，認為翻譯得準確可靠，所以要我們趕快繼續翻譯舊約。<br>
+              &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+              許多人對我們說，他們以前一拿起聖經，就打瞌睡，但現在拿到這本聖經，卻愛不釋手。&nbsp;&nbsp;&nbsp;
+              &nbsp;&nbsp; <br>
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+              還有許多人拿這本聖經給還沒信主的家人、親戚、朋友閱讀，結果他們不久就信主了； &nbsp;&nbsp;&nbsp;
+              &nbsp;&nbsp; <br>
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+              也有父母親跟小孩子一起讀這本聖經，讀到要吃飯的時候，對孩子說：「我們停下來吃飯吧！以後再讀。」孩子卻說：「不！我要繼
+              續讀！」&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; <br>
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+              另外，有人在編寫聖經導讀的時候，採用這本聖經的譯文；有人在寫書解釋聖經預言的時候，用這本聖經裡面 ＜啟示錄＞
+              的譯文為依據﹔ &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <br>
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+              許多人在教＜羅馬書＞的時候，用這本聖經的譯文當教材；許多人用這本聖經準備講道和聖經課程；
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <br>
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+              還有許多傳福音的人，親自跑來向我們說，這是一本他們一直在尋找、真正可以用來和廣大群眾分享福音的聖
+              經！&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <br>
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+              更有美國的中國教會一次就要向我們訂五百本，只是那時我們已經沒有那麽多了！<br>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              感謝主！為了幫助我們滿足讀者的需求，也為了讓我們能夠專心譯完舊約全書，道聲出版社立刻熱誠地和我們簽下契約，接過本書的
+              出版和發行工作，將於二OO七
+              年十月為我們推出新版的《簡明聖經》，並且增加簡體字本，以便更多的人可以閱讀，同享福音的好處。</big><big><br>
+              &nbsp;</big></p>
+        </div>
+        <div id="tab4">
+          <p style="text-align: center; font-weight: bold;"
+            align="center"><big><big>《簡明聖經》的翻譯和見證</big></big></p>
+          <p style="text-align: center;" align="center"><big>講員:蕭慶松
+              (《簡明聖經》譯者)</big></p>
+          <p style="text-align: center;" align="center"><big>(
+              二OO六年十二月和臺灣中部地區教會牧師分享之講詞)</big></p>
+          <p><big>&nbsp; <br>
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+              大家平安。今天能和大家見面，很高興。尤其高興的 是諸位都在傳講主的真理，我們可以互相學習、勉勵。<br>
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+              主的真理寫在聖經裏面。大家都知道，這聖經翻譯成
+              中文，有和合本、中文現代譯本、新譯本等等。今年七月我們又出版了《簡明聖經》。 <br>
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+              聽説諸位有興趣知道有關《簡明聖經》的事，所以我 現在就來跟大家分享。<br>
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+              看過《簡明聖經》的人都說它的經文好讀好懂。這個
+              見解是不是可信，現在我用一些經節做例子，把《和合本》、《新譯本》和《簡明聖經》的經文對照著念出來，給大家聼聼看。 </big></p>
+          <p style="text-decoration: underline;"><span style="font-size:
+              13.5pt; font-family: Arial;" lang="EN-US"><br>
+            </span> <big>馬太福音二十章二 十五、二十六節：</big></p>
+          <ul type="disc">
+            <big> </big>
+            <li><big>和合本說：「耶穌叫了他們來，說：『你們知道 外邦
+                人有君王為主治理他們，有大臣操權管束他們。只是在你們中間不可這樣.....』」</big></li>
+            <big> </big>
+            <li><big>新譯本說：「耶穌把他們叫過來，說：『你們知 道各
+                國都有元首統治他們，也有官長管轄他們。但你們中間卻不要這樣....』」</big></li>
+            <big> </big>
+            <li><big>簡明聖經說：「耶穌便把他們叫在一起，對他們 說：
+                『你們曉得，在不信上帝的人當中，君王都高高在上地統治人民，大官也對人民發號施令，但你們不可這樣....』」</big></li>
+            <big> </big>
+          </ul>
+          <p><big>&nbsp;<br>
+              <span style="text-decoration: underline;">羅馬書二章十二節：</span></big></p>
+          <ul type="disc">
+            <big> </big>
+            <li><big>和合本說：「凡沒有律法犯了罪的，也必不按律 法滅
+                亡。凡在律法以下犯了罪的，也必按律法受審判。」</big></li>
+            <big> </big>
+            <li><big>新譯本說：「凡不在律法之下犯了罪的，將不按 律法
+                而滅亡；凡在律法之下犯了罪的，將按律法受審判。」</big></li>
+            <big> </big>
+            <li><big>簡明聖經說：「沒有摩西法律的地方，人犯了 罪，雖
+                然不照那法律受審判，但仍然要因為自己所犯的罪而滅亡。有摩西法律的地方，人犯了罪，要照那法律受審判。」</big></li>
+            <big> </big>
+          </ul>
+          <p><big>&nbsp;<br>
+              <span style="text-decoration: underline;">羅馬書五章二十節：</span></big>
+          </p>
+          <ul type="disc">
+            <big> </big>
+            <li><big>和合本說：「律法本是外添的，叫過犯顯多。只 是罪
+                在哪裏顯多，恩典就更顯多了。」</big></li>
+            <big> </big>
+            <li><big>新譯本說：「律法的出現，是要叫過犯增多；然 而罪
+                在哪裏增多，恩典就更加增多了。」</big></li>
+            <big> </big>
+            <li><big>簡明聖經說：「摩西法律的頒布，原來是為了使 人明
+                白自己的罪是多麼地多。但人所明白、所承認的罪多，上帝赦罪的恩惠更多。[也就是說，只要人肯認罪悔改，沒有甚麼罪是上
+                帝所 不能赦免的。] 」</big></li>
+            <big> </big>
+          </ul>
+          <p><big>&nbsp;<br>
+              <span style="text-decoration: underline;">羅馬書十一章二十 九節：</span></big></p>
+          <ul type="disc">
+            <big> </big>
+            <li><big>和合本說：「因為神的恩賜和選召是沒有後悔 的。」</big></li>
+            <big> </big>
+            <li><big>新譯本說：「因為神的恩賜和呼召是決不會反悔
+                的。」</big></li>
+            <big> </big>
+            <li><big>簡明聖經說：「因為上帝決不收回自己所應許的 恩
+                惠、不抛棄自己所呼召的人。」</big></li>
+            <big> </big>
+          </ul>
+          <p><big>&nbsp;<br>
+              <span style="text-decoration: underline;">羅馬書十五章一節：</span></big></p>
+          <ul type="disc">
+            <big> </big>
+            <li><big>和合本說：「我們堅固的人，應該擔代不堅固人 的軟
+                弱，不求自己的喜悅。」</big></li>
+            <big> </big>
+            <li><big>新譯本說：「我們堅強的人，應該擔當不堅強的 人的
+                軟弱，不應該求自己的喜悅。」</big></li>
+            <big> </big>
+            <li><big>簡明聖經說：「我們信心堅強的人，對信心薄弱 的
+                人，所做不到的事情，應該容忍，不要只圖自己的高興。」</big></li>
+            <big> </big>
+          </ul>
+          <p><big>&nbsp;</big></p>
+          <p style="text-decoration: underline;"><big>歌羅西書四章五、六兩節：</big></p>
+          <ul type="disc">
+            <big> </big>
+            <li><big>和合本說：「5你們要愛惜光陰，用智慧與外人
+                交往。6你們的言語要常常帶著和氣，好像用鹽調和，就可知 道該怎樣回答各人。」</big></li>
+            <big> </big>
+            <li><big>新譯本說：「5你們要把握時機，用智慧與外人
+                來往。6你們的話要常常溫和，好像是用鹽調和的，使你們知 道應當怎樣回答各人。」</big></li>
+            <big> </big>
+            <li><big>簡明聖經說：「5你們和非基督徒來往的時候，
+                要有智慧。要抓住每一 個適當的機會，盡量向他們傳講福音。6和他們說話要和氣；所說的話，要使他們有興趣聽，
+                就像加上適量鹽巴的好菜一樣，味美可口，讓他們喜歡吃。對每個人的問題，也要
+                知道怎樣回答。」&nbsp;&nbsp; &nbsp; </big></li>
+            <big> </big>
+          </ul>
+          <p><big>&nbsp;<br>
+              <span style="text-decoration: underline;">希伯來書十一章一節：</span></big></p>
+          <ul type="disc">
+            <big> </big>
+            <li><big>和合本說：「信就是所望之事的實底，是未見之 事的
+                確據。」</big></li>
+            <big> </big>
+            <li><big>新譯本說：「信就是對所盼望的事的把握，是還 沒有
+                看見的事的明證。」</big></li>
+            <big> </big>
+            <li><big>簡明聖經說：「信心就是對所盼望的事有把握， 對沒
+                有看見的事能相信。」</big></li>
+            <big> </big>
+          </ul>
+          <p><big><br>
+              <span style="text-decoration: underline;">雅各書三章一、二 兩節：</span></big></p>
+          <ul type="disc">
+            <big> </big>
+            <li><big>和合本說：「1我的弟兄們，不要多人做師傅，
+                因為曉得我們要受更 重的判斷。2原來我們在許多事上都有過失；若有人在話語上沒有
+                過失，他就是完全人，也能勒住自己的全身。」</big></li>
+            <big> </big>
+            <li><big>新譯本說：「1我的弟兄們，你們不應該有太多
+                人做教師，因為知道 我們做教師的將受更嚴厲的審判。2我們在許多的事上都有過錯，假如有人在言語上沒有
+                過錯，他就是完全的人，也能夠控制全身。」</big></li>
+            <big> </big>
+            <li><big>簡明聖經說：「1弟兄們，你們不應該個個都想
+                當老師。因為你們知
+                道，我們教別人的，責任重大，將來要受到比其他人更嚴厲的審判。2我們會犯各種各樣的錯誤。如果有人能管住自己的舌頭，
+                從來不說錯話，那麼他在其他方面一 定 也能管住自己，成為一個完美的人。」</big></li>
+            <big> </big>
+          </ul>
+          <p><big><br>
+              <span style="text-decoration: underline;">彼得前書二章二十 四節：</span></big></p>
+          <ul type="disc">
+            <big> </big>
+            <li><big>和合本說：「他被掛在木頭上親身擔當了我們的 罪，
+                使我們既然在罪上死，就得以在義上活。」</big></li>
+            <big> </big>
+            <li><big>新譯本說：「他在木頭上親身擔當了我們的罪， 使我
+                們既然不活在罪中，就可以為義而活。」</big></li>
+            <big> </big>
+            <li><big>簡明聖經說：「他親自擔當我們的罪，被釘死在 十字
+                架上，讓我們可以脫離罪的控制，而過著上帝所悅納的那種正直清白的生活。」</big></li>
+            <big> </big>
+          </ul>
+          <p><big><br>
+              <span style="text-decoration: underline;">約翰一書二章十五節：</span></big></p>
+          <ul type="disc">
+            <big> </big>
+            <li><big>和合本說：「不要愛世界和世界上的事。人若愛 世
+                界，愛父的心就不在他裏面了。」</big></li>
+            <big> </big>
+            <li><big>新譯本說：「不要愛世界和世上的東西。人若愛 世
+                界，愛父的心就不在他裏面了。」</big></li>
+            <big> </big>
+            <li><big>簡明聖經說：「你們不要愛這世界或這世界上的 東
+                西。愛這世界，就無法愛天父。」</big></li>
+            <big> </big>
+          </ul>
+          <p><big>&nbsp;<br>
+              <span style="text-decoration: underline;">約翰一書三章十八 節： </span></big></p>
+          <ul type="disc">
+            <big> </big>
+            <li><big>和合本說：「小子們哪，我們相愛，不要只在言 語和
+                舌頭上，縂要在行爲和誠實上。」</big></li>
+            <big> </big>
+            <li><big>新譯本說：「孩子們，我們愛人，不要只在言語 和舌
+                頭上，縂要在行動和真誠上表現出來。」</big></li>
+            <big> </big>
+            <li><big>簡明聖經說：「親愛的孩子們，我們不應該只用 嘴巴
+                說我們有愛心，要用行動和事實來證明。」</big></li>
+            <big> </big>
+          </ul>
+          <p style="margin-bottom: 12pt;"><big>&nbsp;</big></p>
+          <p style="text-indent: 36pt;"><big style="font-weight: bold;">現
+              在我來報告有關翻譯 《簡明聖經》的事。</big><b><span style="font-size: 10pt;
+                font-family: Arial;" lang="EN-US"><o:p></o:p></span></b></p>
+          <p style="text-indent: 36pt;"><big>一九九一年我受聖靈的感動，開始傳揚主的福音。我向美國人
+              傳，也向中國人傳。向 中國人傳的時候，常聼他們抱怨中文聖經難懂。</big></p>
+          <p style="text-align: justify; text-indent: 36pt;"><big>於是我禱告，
+              考慮重新翻譯一本中文 聖經。</big></p>
+          <p style="text-align: justify; text-indent: 36pt;"><big>我記得馬太福
+              音七章二十八、二十九 節說, 猶太人對主耶穌的教導很覺稀奇，因為他講道的時
+              候，很有權威。在約翰福音七章四十六節裏面，聖殿警衛也說，從來沒有人講話像主耶穌那樣令人敬畏的。我們又可以從聖經知道，
+              主耶穌的聽衆當中，有許多是沒
+              有念過什麽書的；可是他的話卻震撼所有人的心。這當然是因為他有超凡的能力。另外一個原因是他所使用的語言是新鮮、活潑、容
+              易明白的。所以我認爲翻譯聖經 也應該使用容易明白的中文。</big></p>
+          <p style="text-align: justify; text-indent: 36pt;"><big>感謝主，祂讓
+              我認識許多威克理夫聖 經協會的弟兄姐
+              妹。他們都受過嚴格的語言學訓練，是專門從事翻譯聖經工作的。他們說，許多人翻譯出來的經文不好讀不好懂，是因為他們翻譯的
+              時候，只是呆板地照著原文詞語 的次序和句子的結構，一個字一個字、一個句子一個句子地翻譯過來。</big></p>
+          <p style="text-indent: 36pt;"><big>他們強調，如果要使翻譯出來的經文好讀易懂，一定
+              要先對原來的經文做全面的了解，然後把其中所敘述的事情、所教導的真理、和所使用的語氣跟節奏，參照中國人的文化背景和思維
+              方式，用中文的語言習慣表達出 來。</big></p>
+          <p style="text-align: justify; text-indent: 36pt;"><big>後來我發現，
+              威克理夫聖經協會那些 弟兄姐妹所說的 理論，都是我在念語言學的時候，已經學過的。</big></p>
+          <p style="text-indent: 36pt;"><big>我再經過一段時間的禱告，然後開始重新翻譯聖經，
+              把新的聖經叫做《簡明聖經》，因為是用簡單而容易明白的中文翻譯的。</big></p>
+          <p style="text-indent: 36pt;"><big>我知道許多人翻譯聖經 是根據《新美國標準聖經》New
+              American Standard Bible&nbsp; 和《新國際版聖經》The Holy Bible, New
+              International Version，因為這兩個版本比較 接近原文。所以我也用這
+              兩個版本做基礎，翻譯出來之後，和其他所有中、英文聖經對照，確定沒有失誤，再請中英文都很好的前輩基督徒審查修改，然後加
+              以整理潤飾。接著，我又請非基
+              督徒試讀，因爲這本聖經不但要讓基督徒看得懂，更要讓非基督徒也看得懂，以便用來向他們傳福音。</big></p>
+          <p style="text-indent: 36pt;"><big>我翻譯聖經，翻譯了一些之後，弟兄姐妹讀了，覺得
+              很好，建議把它放到電腦網頁上，讓人家閲讀。我自己不會做網頁，也沒有特意去找別人來做。但是感謝主，有一次，我們去參加一
+              個結婚喜宴，桌上坐的全是陌生
+              人。我們自我介紹之後，表示需要一個義工為《簡明聖經》做網頁。說完，馬上就有賴豊家弟兄志願幫忙。於是我每次翻譯完了一些
+              經文，就讓賴弟兄放到網頁上。</big></p>
+          <p style="text-indent: 36pt;"><big>結果讀者的反應很好，我就繼續翻譯下去。</big></p>
+          <p style="text-indent: 36pt;"><big>那時我在亞利桑納大學主持中文圖書館。爲了翻譯聖
+              經，我每天四點鐘就起床，先禱告，感謝主賜給我一顆順服的心，讓我又一次願意早起。我翻譯聖經到六點鐘，然後出發，七點鐘到
+              學校做事，四點鐘下班，回到家 裏又翻譯聖經，一直到晚上十點鈡。</big></p>
+          <p style="text-indent: 36pt;"><big>後來，我覺得應該在還不太老的時候，就把自己全部
+              奉獻給主。於是我禱告。感謝主，我太太也同意，所以2001年我六十二嵗的時候，就從大學退休下來，全時間翻 譯聖經。</big></p>
+          <p style="text-indent: 36pt;"><big>這期間我一直有骨質增生的病。我的脖子時常會僵
+              硬、疼痛。我看了許多醫生，吃過許多葯，也接受過幾種治療，都沒有用。我也幾次求主醫治我，但祂沒有醫治我。我想，也許主要
+              我像使徒保羅那樣，借著祂的力
+              量顯得堅強。所以有時我的脖子很痛，晚上痛得睡不着覺，我就起來，走到起居室，坐在沙發裏向主禱告，求祂除去我的疼痛。我禱
+              告，唱詩歌，然後主就讓我安然
+              地睡去，直到清晨四點鈡。主對我是憐憫的。祂常用各种辦法來鼓勵我。例如，有時候我四點鐘起來，很睏，祂就讓我去看《簡明聖
+              經》網頁上的統計數字，讓我知
+              道從半夜到那個時候，已經有多少人使用過《簡明聖經》。我知道有那麽多人在使用《簡明聖經》，就振奮起來，不再打瞌睡了。</big></p>
+          <p style="text-indent: 36pt;"><big>主也讓《簡明聖經》吸
+              引衆多的讀者來讀，而且獲得一個基督教機構 Chinese Christian Internet
+              Mission的重視，欣然為我代收 奉獻，支持我的翻譯事工。</big></p>
+          <p style="text-indent: 36pt;"><big>讀者不斷來信。</big></p>
+          <p style="text-indent: 36pt;"><big>有的說他們把《簡明聖
+              經》印下來給還沒信主的家人和親戚朋友朋讀。他們都很喜歡讀，一直讀到晚上一、兩點鈡，結果不 久就信主了。</big></p>
+          <p style="text-indent: 36pt;"><big>有的說他們在編寫聖經導讀的時候，使用《簡明聖
+              經》的經文。</big></p>
+          <p style="text-indent: 36pt;"><big>有的說他們在闡釋聖經預言的時候，使用《簡明聖
+              經》啓示錄的經文。</big></p>
+          <p style="margin-left: 36pt;"><big>有的說他們使用《簡明聖經》去準備講道、主日學、
+              分組查經。</big></p>
+          <p style="text-align: justify; text-indent: 36pt;"><big>更有美國歐克
+              拉侯馬州諾曼市 的 南歐克拉侯馬華人浸信會 覺得《簡明聖經》好讀好懂，和我聯絡，由他們出
+              錢，印出羅馬書五百本當樣本，讓弟兄姐妹研讀。</big><span style="font-size: 10pt;
+              font-family: Arial;" lang="EN-US"><o:p></o:p></span></p>
+          <p style="text-align: justify;"><span style="font-size: 10pt;
+              font-family: Arial;" lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+          <p style="text-align: justify;"><big><span style="font-weight:
+                bold;">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp; 爲什麽大家喜歡《簡明聖經》呢？</span></big><b><span
+                style="font-size: 10pt; font-family: Arial;"
+                lang="EN-US"><o:p></o:p></span></b></p>
+          <p><span style="font-size: 13.5pt;
+              font-family: Arial;" lang="EN-US">&nbsp;</span><big>&nbsp;&nbsp;
+
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 第一、它的經文
+              翻譯得準確：有神學院的教授打電話
+              鼓勵我繼續翻譯舊約全書，因為他們仔細審閲過《簡明聖經》，發現它翻譯得很接近原文。也有宣教士告訴我，他們研讀、對照過
+              《簡明聖經》的經文，覺得翻譯得 很準確、可靠。</big> </p>
+          <p><big>&nbsp;&nbsp;&nbsp;
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+              第二、它的經文好讀好懂。我和太太今年九月到十一
+              月在花蓮縣的鳳林鎮宣教。每天教聖經，連最小的學生，一個國小二年級的小妹妹都會念《簡明聖經》，念得很好。 </big></p>
+          <p><big>&nbsp;&nbsp;&nbsp;
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+              第三、這本聖經遇到像「逾越節」、「五旬節」、
+              「安息日」、「住棚節」、「第二次死亡」之類的詞語時，都用方形括弧加上簡明的解釋。例如，啓示錄二章十一節講到「第二次死
+              亡」，就用方形括弧加上解釋
+              說：「不信主的人死後會到陰間去。主耶穌再來的時候，又會把他扔到火湖裡，這叫第二次死亡。」讀者一看就懂。 </big></p>
+          <p style="text-indent: 36pt;"><big>其實，我在翻譯《簡明聖經》的時候，對經文都盡量
+              仔細研究，以便達到完美的地步。</big></p>
+          <p style="text-indent: 36pt;"><big>例如，路加福音十六章，有些中文聖經說，這章裏面
+              的那個管家，削減債戶欠他主人的債額，取得債戶對他自己的好感，因此獲得主耶穌的稱讚。也就是說他利用主人的錢財，為自己謀
+              取好處，因而贏得主耶穌的贊 許。然而這是很可懷疑的。主耶穌怎麽會教我們慷他人之慨呢？</big></p>
+          <p style="text-indent: 36pt;"><big>所以我在翻譯這一章的時候，加上括弧，在裏面引用
+              聖經學者約瑟.腓玆邁爾 (Joseph A. Fitzmyer) 的一篇論文解釋說，根據從前猶太人的習俗，管家為
+              主人放貸時，可以在債額以外，加上佣金。所以耶穌所說的這個故事裡面，債戶的借據上所寫的債額實際上是包括債戶真正欠財主的
+              數目和管家所加上的佣金。故事
+              中的管家希望將來失業的時候，債戶會幫助他，所以把原來加在他們借據上的佣金免掉了。他這樣做，是放棄自己的利益，而不是慷
+              主人之慨。] 他是犧牲自己的利益，贏
+              得債戶對他的歡喜，才得到主耶穌的稱讚的。（由於時間的限制，我不能把這裡面的一切細節都講出來，諸位如果去讀《簡明聖
+              經》，就會更加清楚我所講的。</big></p>
+          <p style="text-indent: 36pt;"><big>另外，有些中文聖經在這章的第九節裏面，說主耶穌
+              稱讚這個管家用「不義」的錢財結交朋友。但事實上，主耶穌是不可能教我們使用任何不義的錢財的。爲什麽有的中文聖經說是不義
+              之財呢？原來那是從英文聖經的 “unrighteous wealth” 翻譯過來的。但 “unrighteous”
+              這個字在聖經裏有時候不是指「不義的」，而是指 「世俗的」。路加福音十六章九節裏面的 “unrighteous”
+              正是指「世俗的」，而不是指「不義的」。所以主耶
+              穌在這裡是稱讚管家用「世俗的」錢財結交朋友，而不是用「不義的」錢財結交朋友。</big></p>
+          <p style="text-align: justify; text-indent: 36pt;"><big>又如，《使徒
+              行傳》十六章三十節， 監獄的警衛問保
+              羅和西拉說：「先生，我們該怎麼辦，才能得救呢？」保羅和西拉的回答出現於三十一節，其他的中文聖經幾乎都把它翻譯成：「當
+              信主耶穌，你和你全家都必得
+              救。」這個翻譯導致現在廣泛流傳的「一人得救，全家得救」的說法；就是：一家裡面只要有一個人信耶穌而得救，其他人不信耶
+              穌，也能得救。這是不對的。我們
+              遍讀英文版本，認為這節應該翻譯為：「信奉主耶穌，就能得救。你家裡的其他每一個人也都可以這樣做。」這個翻譯才符合主耶穌
+              的教導。</big></p>
+          <p style="text-align: justify; text-indent: 36pt;"><big>又如，馬太福
+              音六章十二節， </big></p>
+          <p style="text-align: justify; text-indent: 36pt;"><big>和合本翻譯
+              為：[免我們的債，如同 我們免了人的債。] </big></p>
+          <p style="text-indent: 36pt;"><big>新譯本的翻譯也相似。這等於是我們要天父學習我們
+              原諒別人。事實上不是這樣。我們是在向天父禱告，請他原諒我們，因為我們已經像他教導的那樣，原諒別人了。新國際版英文聖經
+              說：“Forgive us our debts, as&nbsp; we also have forgiven
+              our debtors.”正確的翻譯應該是：”求您原諒 我們的罪， 因為我們已經原諒了得罪我們的人。”&nbsp;
+              《簡明聖經》就是這樣翻譯的。</big></p>
+          <p style="text-align: justify; text-indent: 36pt;"><big>“As”這個
+              英文字有時是“如同” 的意思，有時是 ”因為” 的意思。例如，”I’m not as rich as you
+              are.”&nbsp; [我不像你那麽有錢。] &nbsp;I don’t have a big house, as
+              I don’t have very much money.”&nbsp; [ 我沒有一個大房子，因
+              為我沒有很多錢。] 在目前的這個經節裏， 它應該當 “因為” 解釋。</big></p>
+          <p style="text-align: justify; text-indent: 36pt;"><big>又如，馬太福
+              音十六章十九節，和合本翻譯為：”我要把天國的鑰匙給你。凡你在地上所捆綁的，在天
+              上也要捆綁。凡你在地上所釋放的，在天上也要釋放。”</big></p>
+          <p style="text-align: justify; text-indent: 36pt;"><big>其他中文聖經
+              的翻譯也相似。這等於 是說，天上的上 帝聼我們的領導，我們在地上怎樣做，他在天上也怎樣做。這是不對的。</big></p>
+          <p style="text-indent: 36pt;"><big>這節經文的意思是說，”我要賜給你天國的鑰匙[，讓你知道
+              上帝的旨意]。你在地 上所禁止的，將是主[上帝]在天上已經禁止的；你在地上所准許的，將是主
+              [上帝]在天上已經准許的。”&nbsp;所以《簡明聖經》就這 樣翻譯。</big></p>
+          <p style="text-align: justify; text-indent: 36pt;"><big>我翻譯聖經，
+              翻譯完了創世記和出埃 及記1-20章，就翻譯新約全書，因為許多人認爲新約比較難
+              懂。也是爲了許多讀者的需要，我先把這些部份出版成書。</big></p>
+          <p style="margin-bottom: 12pt; text-align: justify;
+            text-indent: 36pt;"><big>由 於我和太太今年九月到十一月到花蓮縣的鳳林鎮宣
+              教，下學期我又要到玉山神學院擔任神學英文客座教授，我們就帶了一批到花蓮去介紹給那邊的人。我們在鳳林的聖經班裏面有一位
+              姐妹向我們索取很多《簡明聖
+              經》，發給每一個家人和親戚一本。另外她總是隨身帶著幾本《簡明聖經》，遇到有需要的人，就給他一本。花蓮市的一位醫生有個
+              診所，又牧養一個教會。他索取
+              很多《簡明聖經》，發給來他診所看病和來他教會聚會的人看；又送給花蓮幾個大學的教授看，教授也要學生看，所以很多學生來索
+              取《簡明聖經》。</big></p>
+          <big> &nbsp;&nbsp;&nbsp; &nbsp;
+            我們很希望基督徒讀到《簡明聖經》，以便對主的教導有更正確的了解，活得更接近祂的形象。我們也希望非基督徒讀到《簡明聖經》，
+            以便認識主，得到祂的救贖。<br>
+          </big> <span style="font-size: 12pt; font-family: SimSun;"><br>
+          </span></div>
+        <div id="tab5">
+          <p style="text-align: center;" align="center"><big><big><big><b
+                   ><span style="font-family: 細明體;"></span></b></big><span
+                  style="font-weight: bold;">《簡明聖經》和其他聖經經文對照舉例</span></big></big><big><span
+                style="font-size: 11pt;" lang="EN-US"></span><span
+                style="font-size: 11pt;" lang="EN-US"></span></big></p>
+          <p><span lang="EN-US"><span><big>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+                </big></span></span><big><br>
+              <big><span style="font-size: 11pt;" lang="EN-US"><span
+                   >&nbsp;&nbsp;</span></span></big>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+              《簡明聖經》好讀好懂。 底下以一些書卷章節為例，將它和其 他
+              聖經的經文並列出來，讓大家對照看看。《和合》代表《和合本聖經》，《新譯》代表《聖經新譯本》，《簡明》代表《簡明聖
+              經》。</big></p>
+          <p style="text-decoration: underline;"><big>馬太福音十章三十四節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「你們不要想我來，
+              是叫地上太平。我來，並不是叫地上太 平，乃是叫地上動刀兵。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「你們不要以為我來
+              了，是要給地上帶來和平；我並沒有帶來 和平，卻帶來刀劍...」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「你們不要以為我來
+              到世上，是要在世人之間毫無原則地調解 或折衷，使他們苟且相安無事。不，我來是要好像用一把劍將正反的兩種人切分清楚...」</big></p>
+          <p style="text-decoration: underline;"><big>馬太福音十二章三十節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「不與我相合的，就
+              是敵我的；不同我收聚的，就是分散 的。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「不站在我這一邊的
+              就是反對我的，不跟我一起收聚的，就是 分散的。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「不跟我同道
+              的，就是跟我敵對的；不和我一起收割莊稼的，就是 毀壞、拋散莊稼的
+              [也就是說不和我聚集、拯救靈魂的，就是驅散、毀滅靈魂的]。」</big></p>
+          <p style="text-decoration: underline;"><big>馬太福音二十章二十五、二十六節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「25 ...
+              你們知道外邦人有君王為主治理他們，有大臣 操權管束他們。26只是在 你們中間不可這樣 ... 」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「25 ...
+              你們知道各國都有元首統治他們，也有官長管 轄他們。26但你們中間卻不要這樣... 」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「25 ...你
+              們曉得，在不信上帝的人當中，君王都高高在上地統治人民，大官也對人民發號施令，26 但你們不可這樣 ... 」</big></p>
+          <p style="text-decoration: underline;"><big>馬可福音四章二十四、二十五節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「24你們所聽的要
+              留心。你們用甚麼量器量給 人，也必用甚麼量器量 給你們，並且要多給你們。25因為有
+              的，還要給他。沒有的，連他所有的也要奪去。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「24要留心你們所
+              聽到的，你們用甚麼尺度量 給人，神也要用甚麼尺 度量給你們，並且要超過尺度給你們。25因為那
+              有的，還要給他；那沒有的，就算他有甚麼也要拿去 。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「24你們對於福音
+              要敞開心扉認真聽、仔細琢 磨。你們怎樣聽、怎樣 琢磨，上帝就讓你們怎樣明白，並且 要多讓你們明白。25凡是有的，要再
+              給他；沒有的，連他原來有的，也要拿走。 [這就是說，對於福音敞開心扉認真
+              聽、仔細琢磨，真正明白、接受，照著去實行，使自己的生命結出美好的果實來，並且把福音傳給別人的，上帝會讓他聽到
+              更多、明白更多的的福音；對於福音不願
+              敞開心扉認真聽、不願琢磨的，連他原來聽到的一點福音，上帝也要拿走，讓他完全忘記]。」</big></p>
+          <p style="text-decoration: underline;"><big>馬可福音十章十五節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「我實在告訴你們，
+              凡要承受神國的，若不像小孩子，斷不能 進去。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「我實在告訴你們，
+              凡是不像小孩子一樣接受神國的，絕對不 能進去。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「我實在告訴你
+              們，凡是不像小孩子這樣 [單純地] 接受上帝國度的，都進不了那國度。」</big></p>
+          <p style="text-decoration: underline;"><big>路加福音六章二十四節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「但你們富足的人有
+              禍了，因為你們受過你們的安慰。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「然而你們富足的人
+              有禍了，因為你們已經得到了你們的安 慰。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「你們
+              [不傳福音，只是享受] 富足的人要遭殃了，因為你們得到了舒適的生活 [，卻不會得到上帝的祝福]。」</big></p>
+          <p style="text-decoration: underline;"><big>路加福音七章三十五節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「但智慧之子，都以
+              智慧為是。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「但神的智慧，藉著
+              他的兒女就證實是公義的了。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「但是所有按照上帝
+              的智慧生活的人，都顯示那智慧是正確 的。」</big></p>
+          <p style="text-decoration: underline;"><big>路加福音十七章一、二節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「1絆倒人的事是免
+              不了的。但那絆倒人的有禍 了。2就是把磨石拴在這人的頸項上，丟在海裡，還強如他把這小子裡 的一個絆倒了。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「1使人犯罪的事是
+              免不了的，但那使人犯罪的 人有禍了！2就算拿一塊大磨石拴在他的頸項上，把他沈在深海裡，比他使這
+              小子中的一個犯罪還好。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「1使人犯罪的事一
+              定會有，但做這種事的人要 遭殃了。2他就是使這當中的一個孩子犯罪，將來也會受到嚴厲的懲罰。所以他不如
+              在還沒有做這種事之前，就叫人給他 在脖子上綁一塊大石 頭，把他丟到大海裡，免得將來受到懲罰。」</big></p>
+          <p style="text-decoration: underline;"><big>路加福音二十二章三十一、三十二節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「31西門、西門，
+              撒但想要得著你們，好篩你們，像篩麥 子一樣。32但我已經為你祈求，叫你不至於失了信心。你回頭以後，要堅固
+              你的弟兄。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「31 西門、西門，
+              撒但設法要得著你們，好篩你們像篩麥 子一樣；32但我已經為你祈求，叫你的信心不至失掉。你回頭的時候，要堅
+              固你的弟兄。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「31西門，西 門，
+              撒但求我把你們交給他，讓他可以像篩麥子一樣，把你們當中信心不堅的篩掉。32不過，西門，
+              我已經向上帝禱告過，求他不要讓你 失掉信心。你回頭以後，要堅定弟兄的信心。」</big></p>
+          <p style="text-decoration: underline;"><big>約翰福音三章五節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「...
+              人若不是從水和聖靈生的，就不能進神的國。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「...
+              人若不是從水和聖靈生的，就不能進神的國。」 </big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「...
+              人如果沒有藉水和聖靈重生
+              [也就是說，人如果沒有認罪悔改，接受耶穌，讓自己的罪得到赦免，好像被水洗淨那樣，並且從聖靈獲得新生命和新力
+              量]，他絕對進不了上帝的國度。」</big></p>
+          <p style="text-decoration: underline;"><big>約翰福音九章三十九節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「我為審判到這世上
+              來，叫不能看見的，可以看見。能看見 的，反瞎了眼。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「我到這世上來是為
+              了審判，使那看不見的能夠看見，能看見 的反而成了瞎眼的。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「我為審判而到
+              世上來，使瞎眼的能看見，能看見的變成瞎眼 [也就是說，我到世上來，是要判斷世人 －
+              看哪些人看得見真理，哪些人看不見真理。那些承認自己看不見真理的人，我要醫治他們，使他們看得見。那些看不見真
+              理，卻假裝看得見的人，我要揭發他們瞎眼 的真相]。」</big></p>
+          <p style="text-decoration: underline;"><big>使徒行傳七章五十一節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「你們這硬著頸項，
+              心與耳未受割禮的人，常時抗拒聖靈。你 們的祖宗怎樣，你們也怎樣。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「你們頸項剛硬、心
+              和耳都未受割禮的人哪！你們時常抗拒聖 靈，你們的祖宗怎樣，你們也怎樣。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「你們這些頑固
+              的人，就像沒有受過割禮的外族人那樣，心裡嚮往 假神，耳朵不聽上帝的真理。你們就像你們的祖先那樣，總是抗拒聖靈。」</big></p>
+          <p style="text-decoration: underline;"><big>使徒行傳十六章三十一節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「...當信主耶
+              穌，你和你一家都必得救。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「...當信主耶
+              穌，你和你一家人都必定得救。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「...信奉主耶
+              穌，就能得救。你家裡的其他每一個人也都可以這樣 做。」</big></p>
+          <p><big><span style="text-decoration: underline;">使徒行傳二十章三十二節</span>：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「如今我把你們交託
+              上帝，和他恩惠的道。這道能建立你們， 叫你們和一切成聖的人同得基業。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「現在我把你們交託
+              給神和他恩惠的道；這道能建立你們，也 能在所有成聖的人中賜基業給你們。。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「現在我把你們交託
+              給上帝和那傳揚他恩惠的福音。那福音能 使你們得到造就，並且和一切成聖的人一同獲得上帝為他的百姓所預備的福氣。」</big></p>
+          <p style="text-decoration: underline;"><big>羅馬書二章二十九節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「惟有裡面作的，才
+              是真猶太人。真割禮也是 心裡的，在乎靈不在乎儀文。這人的稱讚，不是從人來的，乃是從神來的。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「惟有在內心作猶太人
+              的才是猶太人。 割禮也是心裡的，是靠著聖靈而不是靠著儀文。這樣的人所受的稱讚，不是從人來的，而是從神來的。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「一個人必須是
+              內心順服上帝的猶太人，才能算是猶 太人。割禮在於內心
+              [，不在於肉體]；是由於聖靈的感動，不是為了符合成文法律的要求。這樣的人得到的讚美，不是來自世人，而是來自上 帝。」</big></p>
+          <p style="text-decoration: underline;"><big>羅馬書五章二十節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「律法本是外添的，
+              叫過犯顯多。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「律法的出現，是要
+              叫過犯增多。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「摩西法
+              律的頒布，原來是為了使人明白自己的 罪是多麼地多。」</big></p>
+          <p style="text-decoration: underline;"><big>羅馬書八章三、四節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「3律法既因肉體軟
+              弱，有所不能行的，上帝就 差遣自己的兒子，成 為罪身的形狀，作了贖罪祭，在肉體中定了罪案，4使律法的義，成就在我們這
+              不隨從肉體，只隨從聖靈的人身 上。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「3律法因肉體的軟
+              弱所做不到的，上帝做到 了：他差遣自己的兒子 成為罪身的樣式，為了除掉罪，就在肉體中把罪判決了，4使
+              律法所要求的義，可以在我們這些不隨從肉體而隨從聖靈去行的人身上實現出來。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「3原來人因為有罪
+              惡的本性，所以很軟弱，經 不起罪的誘惑，因此摩 西法律雖然告訴我們甚麼事不可做，卻無法使我們不做，無法使我們不犯罪。
+              但是摩西法律所無法 做到的，上帝做到了。他派自己完全聖潔
+              的兒子耶穌基督，帶著罪人的形象來到世上，當做替人贖罪的祭品。這樣，上帝就把那控制人的罪所具有的力量除掉，4使人因此不
+              照罪惡的本性生活，而照聖靈生活，以便達到摩 西法 律那叫人保持正直而不犯的要求。」</big></p>
+          <p style="text-decoration: underline;"><big>羅馬書十章四節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「律法的總結就是基
+              督，使凡信他的都得著義。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「因為律法的終極就
+              是基督，使所有信的人都得著義。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「[其實摩西法
+              律只是要準備人們的心，以便等待耶穌基督來臨。] 基督代表摩西法律所要達到的最高準則。他來臨的時
+              候，大家就不必再靠遵守摩西法 律被上帝看成正直清白；所有的人只要信他，就可以被上帝看成正直清白。」</big></p>
+          <p style="text-decoration: underline;"><big>羅馬書十一章二十九節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「因為神的恩賜和選
+              召是沒有後悔的。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「因為神的恩賜和呼
+              召是決不會反悔的。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「因為上帝絕不收回
+              自己所應許的恩惠，不拋棄自己所呼召的 人。」</big></p>
+          <p style="text-decoration: underline;"><big>羅馬書十三章八節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「凡事都不可虧欠
+              人，惟有彼此相愛，要常以為虧欠。因為愛 人的就完全了律法。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「不要欠人的債；但
+              在彼此相愛的事上，要覺得欠了人的債。 愛別人的，就成全了律法。。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「不要欠別人的債；
+              只是在彼此相愛這方面，要覺得總是做得 不夠，總是虧欠人家似的，要繼續償還下去。愛別人就是實踐摩西法律的要求。」</big></p>
+          <p style="text-decoration: underline;"><big>羅馬書十三章十節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「愛是不加害與人
+              的，所以愛就完全了律法。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「愛是不加害於人
+              的，所以愛是成全律法的。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「有愛心，就不會傷
+              害別人。所以愛是摩西法 律的實踐。」</big></p>
+          <p style="text-decoration: underline;"><big>羅馬書十三章十四節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「總要披戴主耶穌基
+              督，不要為肉體安排，去放縱私慾。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「總要披戴主耶穌基
+              督，不要為肉體安排，去放縱私慾。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「在生活上各方面都
+              要模仿主耶穌基督的做法，好像披上了主耶
+              穌基督的形象，讓人家看到我們，就像看到他一樣。不可想要滿足你們那邪惡本性的慾望。」</big></p>
+          <p style="text-decoration: underline;"><big>羅馬書十五章一節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「我們堅固的人，應
+              該擔代不堅固人的軟弱，不求自己的喜 悅。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「我們堅強的人，應
+              該擔當不堅強的人的軟弱，不應該求自己 的喜悅。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「我們信心堅強的
+              人，對信心薄弱的人，所做不到的事情，應 該容忍，不要只圖自己的高興。」</big></p>
+          <p style="text-decoration: underline;"><big>哥林多前書二章十四節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「然而屬血氣的人不
+              領會上帝聖靈的事，反倒以為愚拙。並且 不能知道，因為這些事惟有屬靈的人才能看透。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「然而屬血氣的人不
+              接受神的靈的事，因為他以為是愚笨的； 而且他也不能夠明白，因為這些事，要有屬靈的眼光才能領悟。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「沒有聖靈的人
+              不明白聖靈的事，反而以為愚蠢。他們不明白，因 為這種事只有藉著聖靈才能理解。」</big></p>
+          <p style="text-decoration: underline;"><big>哥林多前書三章十三節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「各人的工程必然顯
+              露，因為那日要將他表明出來，有火發 現。這火要試驗各人的工程怎樣。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「各人的工程將來必
+              要顯露，因為那日必把它顯明出來。有火 要把它顯露出來，那火要考驗各人的工程是怎樣的。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「他們的工程品
+              質如何，將來都會知道；因為主耶穌基督再來的那
+              一天，會把一切真相揭露出來。那時，各人的工程都要經過烈火的考驗，顯出真正的品質來。」</big></p>
+          <p style="text-decoration: underline;"><big>哥林多前書六章十二節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「凡事我都可行，但
+              不都有益處。凡事我都可行，但無論哪一 件，我總不受他的轄制。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「甚麼事我都可以
+              作，但不是都有益處。甚麼事我都可以作， 但我不受任何事的轄制。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「你們有人說：
+              『上帝沒有說不可以做的事，我都可以做。』但
+              這樣的事對你們不是都有益處。即使『上帝沒有說不可以做的事，我都可以做』，然而有些事我如果去做，就會變成它的奴隸，
+              擺脫不了；我即使要停止，它也不讓 我停止。這樣的事我絕對不做，免得受到它的控制。」</big></p>
+          <p style="text-decoration: underline;"><big>哥林多前書七章三～五節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「3丈夫當用合宜之
+              分待妻子，妻子待丈夫也要 如此。4妻子沒有權柄主張自己的身子，乃在丈夫。丈夫也沒有權柄主張 自己的身子，乃在妻子。5夫
+              妻不可 彼此虧負，除非兩相情願，暫時分房，為要專心禱告方 可，以後仍要同房，免得撒但趁著你們情不自盡，引誘你們。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「3丈夫對妻子應該
+              盡他的本分，妻子對丈夫也 應該這樣。4妻子對自己的身體沒有主權，權在丈夫；照樣，丈夫對自己的身
+              體也沒有主權，權在妻子。5夫妻不可 彼此虧負，除非為了要專心禱告，雙方才可同意暫時分
+              房。以後仍要同房，免得撒但趁著你們情不自盡的時候誘惑你們。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「3丈夫對妻子應該
+              履行婚姻上做丈夫的義務，妻子對丈夫也應該履行婚姻上做妻子的義務。4妻子的身體不只屬於她自己，也屬於她丈夫。同
+              樣地，丈夫的身體不只屬於他自己，也屬
+              於他妻子。5夫妻除非為了專心禱告，雙方同意，才可暫時分房，否則不可拒絕和對方同房。而且分房的期間一過，應該馬
+              上恢復同房，以免撒但趁著你們不能自我 控制，而誘惑你們。」</big></p>
+          <p style="text-decoration: underline;"><big>哥林多前書十三章一節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「我若能說萬人的方
+              言，並天使的話語，卻沒有愛，我就成了 鳴的鑼，響的鈸一般。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「我若能說世人和天
+              使的方言，卻沒有愛，我就成了鳴的鑼， 響的鈸一樣。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「我即使會說人
+              類甚至天使的各種語言，卻沒有愛，我就只像吵鬧 的鑼和刺耳的鈸，發出沒有意義的噪音。」</big></p>
+          <p style="text-decoration: underline;"><big>哥林多後書一章二十一、二十二節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「21那在基督裡堅
+              固我們和你們，並且膏我們 的就是上帝。22他又用印印了我們，並賜聖靈在我們心裡作憑據。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「21那在基督裡堅
+              定我們和你們，又膏抹我們 的，就是神。22他在我們身上蓋了印，就是賜聖靈在我們心裡作憑據。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「21如今使我們和
+              你們藉著基督站立得穩的是 上帝；他按立我們，22好像在我們身上蓋了印記，表明我們是屬於他的；他也把自
+              己的聖靈放在我們心中，好像做為贖 買我們的訂金，保證他將來一定
+              會為我們付清其餘的贖款，完成救贖我們的一切手續，使我們得到完全的救贖。」</big></p>
+          <p style="text-decoration: underline;"><big>哥林多後書二章十四節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「感謝上帝，常帥領
+              我們在基督裡誇勝，並藉著我們在各處顯 揚那因認識基督而有的香氣。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「感謝神，他常常在
+              基督裡，使我們這些作俘虜的，列在凱旋 的隊伍當中，又藉著我們在各地散播香氣，就是使人認識基督。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「感謝上帝！他
+              總是藉著基督，帶領我們走在慶祝勝利的遊行行
+              列之中。不管我們走到哪裡，他總是使用我們，向人們傳播有關基督的知識，把這知識 － 也就是福音 －
+              像香氣一般，撒遍各地。」</big></p>
+          <p style="text-decoration: underline;"><big>哥林多後書三章六節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「
+              他叫我們能承當這新約的執事。不是憑著字句，乃是憑著精意。 因為那字句叫人死，精意是叫人活。 」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「
+              他使我們有資格作新約的僕役，這新約不是從儀文來的，而是從 聖靈來的；因為儀文會使人死，而聖靈卻使人活。 」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「他賜給我們能
+              力，讓我們做新約的傳道人，向人們宣講他和他 的百姓所訂的新約。這新約不是來自摩 西法律，而是來自聖靈。摩西法律給罪可
+              乘的機會，慫恿 我們去做那法律所禁止的事，使我們
+              犯罪，和上帝隔離，我們的靈因而死亡。聖靈不然：他賜給我們新的生命。」</big></p>
+          <p style="text-decoration: underline;"><big>哥林多後書六章十四節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「你們和不信的原不
+              相配，不要同負一軛。義和不義有甚麼相 交呢？光明和黑暗有甚麼相通呢？」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「你們和不信的人不
+              可共負一軛。義和不法有甚麼相同呢？光 明和黑暗怎能相通呢？」&nbsp; </big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「你們不要和不信的
+              人同負一軛，因為他們和你們不相配。正 直和邪惡有甚麼相同之點呢？光明和黑暗怎能共存呢？」</big></p>
+          <p style="text-decoration: underline;"><big>加拉太書二章十九節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「我因律法，就向律
+              法死了，叫我可以向上帝活著。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「我藉著律法已經向
+              律法死了，使我可以向神活著。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「因為透過摩 西法
+              律，我知道人都會犯罪，無法靠
+              著遵守那法律而被上帝看成正直清白的人，所以我就放棄這個途徑，轉而依靠對基督的信心。我信了基督，就和他一起死在十字
+              架上。對法律來說，我好像已經死 亡，對它沒有反應了。然後我又和復活的基督一起活起來，從此為上帝而活。」</big></p>
+          <p style="text-decoration: underline;"><big>加拉太書三章十節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「凡以行律法為本
+              的，都是被咒詛的。因為經上記著：『凡不 常照律法書上所記一切之事去行的，就被咒詛。』」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「凡是靠行律法稱義
+              的，都在咒詛之下，因為經上記著：『凡 不常常照著律法書上所寫的一切去行的，就被咒詛。』」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「所有想靠遵守摩
+              西法律而獲得上帝歡喜的人，都 會受到詛咒，因為聖經說：『凡不樣樣事情都遵照摩西法律書中的規定去做的人，都要受到上帝的
+              詛咒』[事
+              實上，人人都會犯錯，即使想要事事都遵照那法律的規定去做，也辦不到。任何時候犯了一條規定，都會受到上帝的詛咒]。」</big></p>
+          <p style="text-decoration: underline;"><big>加拉太書四章十九節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「我小子啊，我為你
+              們再受生產之苦，直等到基督成形在你們 心裡。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「我的孩子們，為了
+              你們我再受生產的痛苦，直到基督在你們 裡面成形。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「親愛的孩子
+              們，我又在為你們忍受生孩子似的那種痛苦了。這 痛苦要等到你們的生命顯出基督的樣式，才會停止。」</big></p>
+          <p style="text-decoration: underline;"><big>以弗所書四章二十六、二十七節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「26生氣卻不要犯
+              罪。不可含怒到日落。27也不可給魔鬼留地步。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「26生氣卻不要犯
+              罪；含怒不可到日落。27不可給魔鬼留地步。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「26生氣的時候，
+              不可犯罪；也不 可生氣到日落，27免得讓魔鬼抓到機會，引誘你們去犯罪。」</big></p>
+          <p style="text-decoration: underline;"><big>以弗所書四章三十節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「不要叫神的聖靈擔
+              憂。你們原是受了他的印記，等候得贖的 日子來到。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「不要讓神的聖靈憂
+              傷，因為你們受了他的印記，等候得贖的 日子。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「不要使上帝的
+              聖靈悲傷，因為他是上帝賜給你們的，好像他蓋
+              在你們身上的印記，表示他已經繳付了贖買你們的訂金，以便基督再來的時候，付清其餘的贖款，把你們完全贖買回來，使你們
+              得到完全的自由。」</big></p>
+          <p style="text-decoration: underline;"><big>腓立比書二章十七節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「我以你們的信心為
+              供獻的祭物。我若被澆奠在其上，也是喜 樂...」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「即使把我澆奠在你
+              們信心的祭物和供奉上，我也喜樂...」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「我幫助了你
+              們，使你們的信心長進，將那成果當做獻給上帝的
+              祭品。現在我即使必須犧牲生命，讓自己的血被當做奠祭的酒，澆在那祭品上面，我也會喜樂...」</big></p>
+          <p style="text-decoration: underline;"><big>腓立比書三章七節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「只是我先前以為與
+              我有益的，我現在因基督都當作有損 的。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「只是我先前以為與
+              我有益的，我現在因基督都當作有損 的。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「但經歷了基督
+              所賜給我的恩惠之後，上面那些我從前認為重要 的事，現在我覺得一點價值也沒有了。」</big></p>
+          <p style="text-decoration: underline;"><big>歌羅西書二章六、七節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「6你們既然接受了
+              主基督耶穌，就當遵他而 行。7在他裡面生根建造，信心堅固，正如你們所領的教訓，感謝的心 也更增長了。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「6你們怎樣接受了
+              基督耶穌為主，就當照樣在 他裡面行事為人，7按著你們 所學到的，在他裡面扎根、建造，信心堅定，滿有感謝 的心。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「6你們既然接受了
+              主耶穌基督，就
+              應該活出他的樣式來。7你們已經照著他的真理扎下了根基，建造了自己，堅定了信心，現在就應該照著所受的教導去做，讓你
+              們的舉止、言談都流露出對他的感激 之情。」</big></p>
+          <p style="text-decoration: underline;"><big>帖撒羅尼迦後書一章十一節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「我們常為你們禱
+              告，願我們的上帝看你們配得過所蒙的召， 又用大能成就你們一切所羨慕的良善、和一切因信心所作的工夫。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「我們常常為你們禱
+              告，願我們的神看你們是配得上所蒙的 召，又用大能成就你們所羨慕的一切良善和信心的工作...」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「我們一直為你
+              們禱告，祈求上帝使你們不會辜負他的呼召，願他 用他的力量，幫助你們達到一切美好的目標，完成你們憑信心所做的一切事情...」</big></p>
+          <p style="text-decoration: underline;"><big>提摩太後書二章二十六節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「叫他們這已經被魔
+              鬼任意擄去的，可以醒悟，脫離他的網 羅。&nbsp; 」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「他們雖然曾經被魔
+              鬼擄去，隨從他的意思而行，或許也能醒 悟過來，脫離魔鬼的陷阱。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「讓他們這些被魔鬼
+              捉去任意使喚的人，可以醒悟過來，逃出 羅網。」</big></p>
+          <p><big><span style="text-decoration: underline;">提摩太後書四章二節</span>：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「務要傳道，無論得
+              時不得時總要專心；並用百般的忍耐、 各樣的教訓責 備人，警戒人，勸勉人。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「務要傳道；無論時
+              機是否適合，都要常作準備；要以多方的 忍耐和教訓責備人、警戒人、勸勉人。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「要傳福音；不
+              管形勢有利不利，都要傳。要用百般的耐心和教導 來糾正、勸誡、鼓勵大家。」</big></p>
+          <p><big><span style="text-decoration: underline;">提摩太後書四章三節</span>：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「時候要到，人必厭
+              煩純正的道理，耳朵發癢，就隨從自己的 情慾，增添好些師傅。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「時候快要到了，人
+              必容不下純正的道理，反而耳朵發癢，隨 著自己的私慾，增添許多教師...」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「不久人們將討
+              厭純正的教義，會隨著自己的慾望，找來許多逢迎 他們的教師，專門說些他們喜歡聽的話...」</big></p>
+          <p style="text-decoration: underline;"><big>提多書一章十五節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「在潔淨的人，凡物
+              都潔淨；在污穢不信的人，甚麼都不潔 淨，連心地和天良也都污穢了。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「在清潔的人，一切
+              都是清潔的；但在污穢不信的人，沒有一 樣是清潔的，連他們的意念和良心都污穢了。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「對於純潔的人來
+              說，甚麼都是純潔的；對於污穢、不信上帝 的人來說，甚麼都是污穢的，因為他們的意念和良心都污穢了。」</big></p>
+          <p><big><span style="text-decoration: underline;">腓利門書一章六節</span>：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「願你與人所同有的
+              信心顯出功效，使人知道你們各樣善事都 是為基督作的。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「願你與眾人分享你
+              的信心的時候，會產生功效，使我們可以 知道在我們中間的一切善事，都是為基督作的。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「我祈求當你因為自
+              己的 信仰，而讓別人享受到你的仁慈時，他們 會看到你由於信耶穌而做的許多好事，而受到感動。」</big></p>
+          <p style="text-decoration: underline;"><big>希伯來書二章十節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「原來那為萬物所
+              屬、為萬物所本的，要領許多的兒子進榮耀 裡去，使救他們的元帥，因受苦難得以完全，本是合宜的。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「萬有因他而有、藉
+              他而造的那位，為了要領許多的兒子進入 榮耀裡去，使救他們的元首藉著受苦而得到成全，本是合適的。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「宇宙萬有都是
+              為著上帝、也是藉著上帝創造的。上帝為了使眾多
+              的兒女得到拯救、分享他的榮耀，就先讓他所派來拯救兒女的元首耶穌，經過死亡的苦難而有完全的資格可以施行贖罪和拯救的
+              工作。他這麼做是很恰當的
+              [，因為上帝的兒女原來有罪，所以他必須用自己無罪的兒子耶穌擔當他們的罪，替他們死，除去他們的罪，他們才能得救]。」</big></p>
+          <p style="text-decoration: underline;"><big>希伯來書三章十四節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「我們若將起初確實
+              的信心堅持到底，就在基督裡有分了。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「如果我們把起初的
+              信念堅持到底，就是有分於基督的人 了。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「我們如果能夠
+              抱住當初的信心，堅持到底，就能和基督分享他所 有的一切福分。」</big></p>
+          <p style="text-decoration: underline;"><big>希伯來書四章十三節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「被造的，沒有一樣
+              在他面前不顯然的。原來萬物在那與我們 有關係的主眼前，都是赤露使敞開的。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「被造的，沒有一樣
+              在他面前不顯然的。原來萬物在那與我們 有關係的主眼前，都是赤露敞開的。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「被造的萬有，
+              沒有一樣能夠躲過上帝的眼目。我們無論做甚麼 事，都必須向他負責，因為一切事情都會暴露在他的眼前。」</big></p>
+          <p style="text-decoration: underline;"><big>希伯來書十一章一節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「信就是所望之事的
+              實底，是未見之事的確據。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「信就是對所盼望的
+              事的把握，是還沒有看見的事的明證。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「信心就是對所盼望
+              的事有把握，對沒有看見的事能相信。」</big></p>
+          <p style="text-decoration: underline;"><big>雅各書一章十五節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「私慾既懷了胎，就
+              生出罪來；罪既長成，就生出死來。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「私慾懷了胎，就生
+              出罪；罪長成了，就產生死亡。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「邪惡的慾望導
+              致邪惡的罪行，邪惡的罪行招徠死亡。」</big></p>
+          <p style="text-decoration: underline;"><big>雅各書一章十九節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「你們各人要快快的
+              聽，慢慢的說，慢慢的動怒...」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「人人都應該快快地
+              聽，慢慢地說，慢一點動怒...」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「你們每人應該
+              仔細地聽，不要急著說話，也不要急著動怒...」</big></p>
+          <p style="text-decoration: underline;"><big>雅各書三章一、二節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「1我的弟兄們，不
+              要多人做師傅，因為曉得我 們要受更重的判斷。2原來我們
+              在許多事上都有過失。若有人在話語上沒有過失，他就是完全人，也能勒住自己的全身。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「1我的弟兄們，你
+              們不應該有太多人作教師， 因為知道我們作教師 的將受更嚴厲的審判。2我們在許
+              多的事上都有過錯，假如有人在言語上沒有過錯，他就 是完全的人，也能夠控制全身。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「1弟兄們，你們不
+              應該個個都想 當老師。因為你們知道，我們教別人的，責任重大，將來要受到比其他人更嚴厲的審判。2我們會犯
+              各種各樣的錯誤。如果有人能管住自己的舌頭，從來不說錯話，那麼他在其他方面一定也能管住自己，成為一個完美的人。」</big></p>
+          <p style="text-decoration: underline;"><big>彼得前書二章二十四節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「他被掛在木頭上親
+              身擔當了我們的罪，使我們既然在罪上 死，就得以在義上活。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「他在木頭上親身擔
+              當了我們的罪，使我們既然不活在罪中， 就可以為義而活。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「他親自擔當我們的
+              罪，被釘死在十字架上，讓我們可以脫離罪 的控制，而過著上帝所悅納的那種正直清白的生活。」</big></p>
+          <p style="text-decoration: underline;"><big>彼得前書四章八節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「最要緊的是彼此切
+              實相愛，因為愛能遮掩許多的罪。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「最重要的是要彼此
+              切實相愛，因為愛能遮掩許多的罪。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「尤其要彼此深
+              切地相愛，因為愛能遮掩許多的罪 [也就是能原諒別人許多的過錯]。」</big></p>
+          <p style="text-decoration: underline;"><big>彼得後書一章三節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「上帝的神能已將一
+              切關乎生命和虔敬的事賜給我們，皆因我 們認識那用自己榮耀和美德召我們的主。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「神以他神聖的能
+              力，因著我們確實認識那位用自己的榮耀和 美善呼召我們的，把一切有關生命和敬虔的事，都賜給了我們。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「上帝用自己的
+              榮耀和美德呼召了我們。他那神聖的力量已經透過 我們對他的認識，賜給我們過虔誠生活所需要的一切。」</big></p>
+          <p style="text-decoration: underline;"><big>彼得後書一章十九節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「我們並有先知更確
+              的預言，如同燈照在暗處。你們在這預言 上留意，直等到天發亮，晨星在你們們心裡出現的時候，才是好的。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「我們還有先知的
+              話，是更確實的。你們要特別注意它，好像 注意照在暗處的明燈，直到天將破曉，晨星在你們們心裡出現的時候。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「這使我們更加
+              確信先知們的預言。你們如果注意那些預言，對你 們將大有好處。因為黎明來臨、晨星在你們心中升起之前
+              [也就是耶穌再來，在你們心中充滿亮光之前]，那些預言就像黑暗中一盞發光的明燈。」</big></p>
+          <p style="text-decoration: underline;"><big>彼得後書二章十二節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「但這些人好像沒有
+              靈性，生來就是畜類，以備捉拿宰殺的。 他們毀謗所不曉得的事，正在敗壞人的時候，自己必遭遇敗壞。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「但這些人，好像沒
+              有理性的牲畜，生下來就是給人捉去宰殺 的；他們毀謗自己所不知道的事，必在自己的敗壞中滅亡。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「可是那些人卻
+              好像沒有理性、只靠本能行事，生下來就是要給人
+              捉去宰殺的畜生。他們誹謗自己所不明白的事，將來也會像畜生一樣，遭到滅亡。」</big></p>
+          <p style="text-decoration: underline;"><big>約翰一書二章十五節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「不要愛世界和世界
+              上的事。人若愛世界，愛父的心就不在他 裏面了。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「不要愛世界和世上
+              的東西。人若愛世界，愛父的心就不在他 裏面了。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「你們不要愛這世界
+              或這世界上的東西。愛這世界，就無法愛 天父。」</big></p>
+          <p style="text-decoration: underline;"><big>約翰一書三章十 八節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「小子們哪，我們相
+              愛，不要只在言語和舌頭上，總要在行為 和誠實上。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「孩子們，我們愛
+              人，不要只在言語和舌頭上，總要在行動和 真誠上表現出來。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「親愛的孩子
+              們，我們不應該只用嘴巴說我們有愛心，要用行動 和事實來證明。」</big></p>
+          <p style="text-decoration: underline;"><big>約翰一書四章十 八節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「愛裡沒有懼怕。愛
+              既完全，就把懼怕除去。因為懼怕裡含著 刑罰。懼怕的人在愛裡未得完全。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「愛裡沒有懼怕。完
+              全的愛可以把懼怕驅除。因為懼怕含有刑 罰。懼怕的人在愛裡還沒有完全。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「以愛待人的，
+              不會懼怕。完全的愛會把懼怕趕走，因為懼怕是擔 心受到懲罰。懼怕的人就是沒有完全以愛待人。」</big></p>
+          <p style="text-decoration: underline;"><big>約翰二書一章八節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「你們要小心，不要
+              失去你們所做的工，乃要得著滿足的賞 賜。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「你們要小心，不要
+              拆毀我們已經完成的工作，卻要得著美滿 的賞賜 」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「你們要小心
+              [，不要相信他們的話]，免得我們傳福音的工作，變成枉然；要讓我們一切的努力，將來都能得到基督的獎賞才好。」</big></p>
+          <p style="text-decoration: underline;"><big>啟示錄一章九節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「我約翰就是你們的
+              弟兄，和你們在耶穌的患 難、國度、忍耐裡一同有分，為上帝的道，並為給耶穌作的見證，曾在那名叫拔摩的海島上。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「我約翰，就是你們
+              的弟兄，在耶穌裡跟你們 一同分享患難、國度、和忍耐的，為了神的道和耶穌的見證，曾經在那名叫拔摩的海島上。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「我 － 約 翰
+              － 是和你們分嘗耶穌的苦難、國度和忍耐的弟兄。我因為傳講上帝的信息、為耶穌做證，而被放逐到拔摩島上 來。」</big></p>
+          <p style="text-decoration: underline;"><big>啟示錄二章四節：</big></p>
+          <p><big><span style="font-weight: bold;">《和合》</span>：「然而有一件事我要
+              責備你，就是你把起初的愛心離棄了。」</big></p>
+          <p><big><span style="font-weight: bold;">《新譯》</span>：「然而有一件事我要
+              責備你，就是你已經離棄了你起初的 愛。」</big></p>
+          <p><big><span style="font-weight: bold;">《簡明》</span>：「但有一件事我要責
+              備你：就是你不如起初那樣有愛心了。」</big></p>
+          <big><br>
+          </big></div>
+        <!--div id="tab_reader">
+<div style="text-align: center;"><big><big><span
+ style="font-weight: bold;"><br>
+</span><span style="font-weight: bold;">讀者來信</span></big></big><br>
+</div>
+<p style="margin-left: 2.6pt; text-align: center;"
+ align="center"><big>(下面是一些讀者來信的節錄。有的
+譯自英文。X 表示省掉的書名或地名)</big><span style="font-family: &quot;AR FangSongB5 Bold&quot;;"
+ lang="EN-US"><o:p></o:p></span></p>
+<p style="margin-left: 2.6pt; text-align: justify;"><span
+ style="font-family: &quot;AR FangSongB5 Bold&quot;;" lang="EN-US"><o:p>&nbsp;</o:p></span><big>「…
+可否准我在拙著之中引用 《簡明聖經》裏面〈啓示錄〉的譯文…」</big></p>
+<p style="margin-left: 2.6pt; text-align: justify;"><big>&nbsp;<br>
+「…可否請你給我許可，讓我將你網頁上《簡明聖經》的譯文下載到 CD 分送給弟兄姐妹使用…」</big></p>
+<p style="margin-left: 2.6pt; text-align: justify;"><big>&nbsp;<br>
+「…我有一次在網上搜尋聖經資料的時候，無意間瀏覽到你們的網站。這幾年來，每當我要帶領少年或成年人查考聖經，甚至要講道的時候，都應用你們的譯文…今
+天看到你們又完成了幾本福音書和書信，便馬上翻閲 &lt;約翰福音&gt; 1章和 &lt;羅馬書&gt;
+12章，發現你們翻譯得太棒了！我實在滿
+心地感謝主！這兩處聖經可以說是很難把意境、流暢性和準確性同時翻譯好的，但你們都做到了。我深信你們的工作會讓許多閲讀到這本聖經的人蒙福，進而生命被
+上帝的話語改變… 」</big></p>
+<p style="margin-left: 2.6pt; text-align: justify;"><big>&nbsp;<br>
+「…我一直在尋找新翻譯的中文聖經，找了很久，終於在 數碼聖經協會 所出的
+《信仰寶庫》磁碟裏找到了。英文讀者享受到多種譯本的好處，但只能讀中文的
+讀者們受到古老的 X 本 很大的阻礙。X 本
+之外雖然還有一些其他中文譯本，但我認爲那些嘗試都不太成功。我很高興你在翻譯上勇於使用新的方法，所以翻譯出來的經文好讀得多…你在有些地方加上註解，
+那些註解又很恰當地融合在經文裏，讀起來非常流暢…」</big></p>
+<p style="margin-left: 2.6pt; text-align: justify;"><big>&nbsp;<br>
+「…我非常喜歡你新翻譯的中文聖經。我覺得它對讀者很有幫助。除了一章一章地下載之外，不知有沒有其他辦法可以下載得快一些？我想把你的翻譯介紹給 X
+的牧師使用，讓他們對聖經有正確的了解…」</big></p>
+<p style="margin-left: 2.6pt; text-align: justify;"><big>&nbsp;<br>
+「…我能讀到你新翻譯的中文聖經,實在很有福氣。它對我們的查經班很有幫助。我們正在學習羅馬書。我先從你們網頁上印下三章來使用…」</big></p>
+<p style="margin-left: 2.6pt; text-align: justify;"><big>&nbsp;<br>
+「…我已經下載了你所朗讀的
+《簡明聖經》中的幾個部份，還要繼續下載。你朗讀的速度很恰當。我知道你朗讀這些經文時，是從内心讀出來的。你的事工對於我向 X
+衆多失喪的人傳講福音將有很大的幫助…」</big></p>
+<p style="margin-left: 2.6pt; text-align: justify;"><big>&nbsp;<br>
+「…我聆聽了你們網頁上
+《簡明聖經》的朗讀版。感謝朗讀者，因爲他讀得非常流暢而合適。我自己閲讀《簡明聖經》時，覺得非常好讀。但是當我聽到朗讀版時，才真正體會到你的遠見和
+努力：你不但把經文翻譯得好讀，也翻譯得讓人聼起來容易明白。於是我把印出來的經文放在面前。一邊看著經文，一邊聼著朗讀者的朗讀，效果非常好…」</big></p>
+<p style="margin-left: 2.6pt; text-align: justify;"><big>&nbsp;<br>
+「…我曾引用你所翻譯的哥林多後書七章8-11節的經文講道。講完後，很多弟兄姐妹告訴我，他們對那些經文從來沒有像這次理解得那麽透徹。我下次的講詞要
+以提摩太前書一章3-7節為根據，也要使用《簡明聖經》的譯文。很奇怪，我們讀X 本
+的時候，每節經文裏面的每個字都認識，然而讀完了整節經文,卻不曉
+得是什麽意思…我使用 e-Sword 網頁上的《簡明聖經》，也很好用…」</big></p>
+<p style="margin-left: 2.6pt; text-align: justify;"><big>&nbsp;<br>
+「…你為了對中國人傳揚主耶穌的福音而做出的貢獻，我即使向你說“謝謝，”也無法表達我心中的謝意。我們在 X
+有一位英文不錯的朋友。她一向喜歡閲讀新國際版的英文聖經，而不喜歡閲讀 X 本的中文聖經，因爲 X
+本中文聖經使她越讀越糊塗。現在有你新翻譯的《簡明聖經》，讀起來很容易懂。所以她用那本聖經來自修，也用它來帶領別人信主…」</big></p>
+<p style="margin-left: 2.6pt; text-align: justify;"><big>&nbsp;<br>
+「…你們新出的《簡明聖經》翻譯得很好。我想幫助 X 的大學生和專業人員使用這本聖經。這裡所有的教會和牧師都使用 X 本 和 X 本
+聖經，但大多數的年輕人都不喜歡…」</big></p>
+<p style="margin-left: 2.6pt; text-align: justify;"><big>&nbsp;<br>
+「…以前剛開始在閲讀 X 本聖經的時候，常會遇到不明白或看不懂的地方…為了想弄清楚…便開始閲讀其他版本的聖經，比如中文 X 本及 X
+本，但仍有許多地方使我不明白,我就開始朝向英文聖經的查經,KJV,NKJV, NIV,
+ESV…之後我與許多弟兄姐妹分享聖經話語中的許多含義。但
+因為很多跟中文聖經不相合…許多弟兄姐妹覺得我分享聖經的内容不太符合聖經。這當中出現許多誤解。當我正想如何讓弟兄姐妹更加明白聖經的内容及含義時，剛
+好在道聲出版社工作的白弟兄給我一本中文《簡明聖經》，我就開始翻開閲讀，發現這本聖經翻譯得非常用心，内容翻譯得非常清楚…更重要的是他們查考許多以色
+列的文化傳統…在聖經裏加以清楚的解釋…這本聖經可以幫助弟兄姐妹更明白聖經所要表達的意思…」</big></p>
+<p style="margin-left: 2.6pt; text-align: justify;"><big>&nbsp;<br>
+「…我不喜歡 X 本聖經。那本聖經不但翻譯得不正確，而且很難懂。更糟糕的是 “神” 版的 X
+本聖經把上帝翻譯爲“神”。大家都知道，崇拜假神的中
+國人都把他們的假神稱爲“神”。所以“神”版的 X 本聖經等於把我們所敬拜的上帝降為假神了…今晚我把《簡明聖經》和 X
+本聖經裏面約翰福音一章一節的譯文比較了一下，發現《簡明聖經》的譯文比後者的清楚、易懂，而且把 God 翻譯為上帝，不像後者那樣翻譯為“神”…」</big></p>
+<p style="margin-left: 2.6pt; text-align: justify;"><big>&nbsp;<br>
+「…我剛剛和這裡的一位姐妹開完了一個會。她用你所翻譯的《簡明聖經》在這裡帶領職業學院的學生讀聖經。這些學生讀不懂 X
+本聖經，但是對《簡明聖經》的反應非常熱烈。因此這位姐妹問我可不可再向你索取…」</big></p>
+<p><big>&nbsp;</big>
+<br>
+</p>
+</div-->
+        <div id="tab_order">
+          <div style="text-align: left;">
+            <div style="text-align: center;"><big><big><span
+                    style="font-weight: bold;"><br>
+                    訂購 (Order)</span></big></big><br>
+              <big><b style="font-weight: bold;"><span style="font-size:
+                    13.5pt; font-family: Arial;" lang="EN-US"></span></b></big></div>
+            <p><big><b style="font-weight: bold;"><span
+                    style="font-size: 13.5pt; font-family: Arial;"
+                    lang="EN-US"></span></b></big><span
+                style="font-family: Arial;" lang="EN-US"><o:p></o:p></span></p>
+            <p class="western" style="margin-bottom: 0.0001pt;"><big>
+                2012年9月再版的《簡明聖經》有繁體字和簡體字本。詢購處為：</big></p>
+            <p class="western" style="margin-bottom: 0.0001pt;"><big><span
+                  style="font-weight: bold;">台灣</span>：道聲出版社， <a
+                  href="http://www.taosheng.com.tw/bookfiles-06F/bookfiles-06F040.htm"
+                  target="_blank">www.taosheng.com.tw</a>; <br>
+                &nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 電話:
+                02-2393-8583; 地址: 106台北市 杭州南路二段15號。<br>
+              </big></p>
+            <p><big><span style="font-weight:
+                  bold;">美國</span>：1. 使者書房Ambassadors for Christ
+                Bookstore;&nbsp; <a href="http://www.afcresources.org/bookstore/contents/en-us/d72_01.html"
+                  target="_blank">www.afcresources.org/bookstore</a>;<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                電話: 800-624-3504; 地址: 21 Ambassador Drive, Paradise, PA 17562.</big></p>
+            <p><big>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                2. 台福中心書房 EFC Bookstore; <a href="http://www.bookstores.efccc.org" target="_blank">www.bookstores.efccc.org</a>;<br>
+		&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		電話: 626-307-0030; 地址: 9386 Telstar Ave., El Monte, CA 91731.</big></p>
+
+            <p><big><span style="font-weight: bold;">加
+                  拿大</span>： 方舟家福音書店 The Arkhouse Store; <a
+href="http://cgi.ebay.ca/A-Dynamic-Chinese-Translation-Bible_W0QQitemZ370179935399QQcmdZViewItemQQptZUS_Nonfiction_Book?hash=item370179935399&amp;_trksid=p4634.c0.m14.l1262&amp;_trkparms=%7C301%3A0%7C293%3A1%7C294%3A30"
+                  target="_blank">http://stores.ebay.ca/The-Arkhouse-Store</a>
+                <br>
+              </big></p>
+            <p style=""><big><span style="font-weight:
+                  bold;">香港</span>： 道聲出版社 Taosheng Publishing House
+                (H.K.); 電話: (852) 2388-7061;<br>
+                &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 地址: 香
+                港九龍窩打老道50A信義樓3樓.</big></p>
+            <p style=""><big><span style="font-weight:
+                  bold;">新加坡</span>：Eden Resources Pte. Ltd.; 電話: (65)
+                6343-0151;<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                地址: 29 Playfair Rd., #02-00 Lin Ho Building, Singapore
+                367992;</big></p>
+            <p style=""><big><span style="font-weight:
+                  bold;"> 馬來西亞</span>：PUSTAKA SUFES SDN BHD; 電話:
+                603-77828239;<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                地址: 354, Jalan 5/57, 46000 Petaling Jaya, Selangor,
+                Malaysia;</big></p>
+            <p style=""><big><span style="font-weight:
+                  bold;"> 其他地區</span>：請詢問台北道聲出版社 <a
+                  href="http://www.taosheng.com.tw/bookfiles-06F/bookfiles-06F040.htm"
+                  target="_blank">www.taosheng.com.tw</a></big><big><span
+                  style="font-size: 13.5pt;"><span lang="EN-US"><o:p></o:p></span></span></big></p>
+            <p><big><br>
+                <span style="font-style: italic;">Jian Ming Sheng Jing
+                  (Bible in simple and easy to understand Chinese) </span>
+                was re-published in traditional- and simplified-character versions by Taosheng Publishing House, Taipei, in September 2012.&nbsp; To order the book, please contact:<br><br>
+                <span style="font-weight: bold;">TAIWAN:&nbsp; </span>Taosheng Publishing House;
+                <a href="http://www.taosheng.com.tw/bookfiles-06F/bookfiles-06F040.htm"
+                  target="_blank">www.taosheng.com.tw</a>;<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;02-2393-8583;15
+                Hang Chow S. Road, Sec. 2, Taipei 106.&nbsp; </big></p>
+            <p><big><span style="font-weight:
+                  bold;">U.S.</span> :&nbsp; 1. Ambassadors for Christ
+                Bookstore; <a target="_blank"
+href="http://www.afcinc.org/bookstore/index.html?lang=en-us&amp;target=d72_01.html">www.afcinc.org/bookstore</a>;<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+                &nbsp;&nbsp;&nbsp; &nbsp; 800-624-3504; 21 Ambassador
+                Drive, Paradise, PA 17562. </big></p>
+            <p><big>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                2. EFC Bookstore;&nbsp; <a href="http://www.bookstores.efccc.org" target="_blank">www.bookstores.efccc.org</a>;<br>
+		&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 
+		626-307-0030; Address: 9386 Telstar Ave., El Monte, CA 91731.</big></p>
+            <p style=""><big><span style="font-weight:
+                  bold;">CANADA</span>: The Arkhouse Store&nbsp; <a
+href="http://cgi.ebay.ca/A-Dynamic-Chinese-Translation-Bible_W0QQitemZ370179935399QQcmdZViewItemQQptZUS_Nonfiction_Book?hash=item370179935399&amp;_trksid=p4634.c0.m14.l1262&amp;_trkparms=%7C301%3A0%7C293%3A1%7C294%3A30" target="_blank">http://stores.ebay.ca/The-Arkhouse-Store</a><br>
+                &nbsp;<br>
+                <span style="font-weight: bold;">HONG KONG</span>:
+                Taosheng Publishing House (H.K.);&nbsp; (852) 2388-7061;<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+                香港九龍窩打老道50A信義樓3樓.</big></p>
+            <p style=""><big><span style="font-weight:
+                  bold;">SINGAPORE</span>:&nbsp; Eden Resources Pte.
+                Ltd.; (65) 6343-0151;<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 29
+                Playfair Rd., #02-00 Lin Ho Building, Singapore 367992;</big></p>
+            <p style=""><big><span style="font-weight:
+                  bold;">MALAYSIA</span>: &nbsp;PUSTAKA SUFES SDN BHD;
+                603-77828239;<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 354, Jalan 5/57, 46000
+                Petaling Jaya, Selangor, Malaysia;</big></p>
+            <p style=""><big><span style="font-weight:
+                  bold;">OTHER REGIONS</span>:&nbsp; Please direct
+                inquiries to Taosheng Publishing House, Taipei.&nbsp; <a href="http://www.taosheng.com.tw/bookfiles-06F/bookfiles-06F040.htm" target="_blank">www.taosheng.com.tw</a></big></p>
+          </div>
+        </div>
+        <div id="tab_donate">
+          <div style="text-align: center;"><big><b =""=""><big
+                  style="font-weight: bold;"><big><br>
+                  </big></big></b></big><big><big><span
+                  style="font-weight: bold;">代禱、奉獻( Prayer &amp;
+                  Donation)</span></big><span lang="EN-US"><o:p><br>
+                </o:p></span></big>
+            <p style="text-align: left;"><big>您如果受到聖靈的
+                感動，願意幫助我們的事
+                工，您可以禱告，求主讓更多的人知道、使用這本好讀、易懂的《簡明聖經》，使世界上每一個角落的中國人都得到祂的福音。
+                您如果願意在財力上支持我們免費贈
+                送《簡明聖經》給需要幫助的人(包括中國大陸裡面的)，請把奉獻支票開給Tucson Chinese
+                Christian Church, 在支票的左下方註明For Chinese Bible Project,
+                並將支票寄到：Tucson Chinese Christian Church, PO Box 35574,
+                Tucson, AZ 85740.</big></p>
+            <p style="text-align: left;"><big>Tucson
+                Chinese Christian Church 年終會寄收據給您，做為報稅資料。</big></p>
+            <p style="text-align: left;"><big>&nbsp;</big></p>
+            <p style="text-align: left;"><big>If you
+                would like to support our ministry in distributing free
+                Jian Ming Sheng Jing to the needy (including those in
+                Mainland China), please make your check payable
+                to:&nbsp; Tucson Chinese Christian Church, with a note
+                in the memo blank:&nbsp; For Chinese Bible Project, and
+                send it to: &nbsp;Tucson Chinese Christian Church, PO
+                Box 35574, Tucson, AZ 85740.&nbsp; </big></p>
+            <div style="text-align: left;"><big>The Church will send you
+                a receipt at the end of the year for the tax purpose.</big></div>
+            <p id="wo46" class="western" style="margin-bottom: 0in;"><br>
+            </p>
+          </div>
+        </div>
+        <div id="tab_contact">
+          <!-- contact address  --><big><b =""=""><big
+                style="font-weight: bold;"><big><br>
+                </big></big> </b></big>
+          <div style="text-align: center;"><big><big><span
+                  style="font-weight: bold;">連絡資訊 Contact Us</span></big><b
+                =""=""><br>
+              </b></big></div>
+          <div style="text-align: center;"><big><b =""=""><br>
+              </b></big></div>
+          <table style="height: 192px; width: 613px; text-align: left;
+            margin-left: auto; margin-right: auto;" border="1"
+            cellpadding="2" cellspacing="2">
+            <tbody>
+              <tr>
+                <td style="vertical-align: top;"><big>會址 Address:</big></td>
+                <td style="vertical-align: top;"><big>PO Box 35574<br>
+                    Tucson, AZ 85740, USA</big></td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top;"><big>聯絡人 Contact
+                    person:</big></td>
+                <td style="vertical-align: top;"><big>蕭慶松 博士 Dr. Gene
+                    Hsiao</big></td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top;"><big>電子通信 Email:</big></td>
+                <td style="vertical-align: top;"><big><a
+                      href="mailto:tucsonchinesebible@yahoo.com">tucsonchinesebible@yahoo.com</a></big></td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top;"><big>電話 Tel:</big></td>
+                <td style="vertical-align: top;"><big>(520) 293-8683</big></td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top;"><big>傳真 Fax:</big></td>
+                <td style="vertical-align: top;"><big>(520) 293-8686</big></td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top;"><big>有關網站問題請聯絡
+                    Webmaster<br>
+                  </big></td>
+                <td style="vertical-align: top;"><big><a
+                      href="mailto:webmaster@tucsonchinesechristianchurch.org">webmaster@tucsonchinesechristianchurch.org</a><br>
+                  </big></td>
+              </tr>
+            </tbody>
+          </table>
+          <big><b =""=""><br>
+            </b></big></div>
+        <div id="tab_copyright">
+          <div style="text-align: center;"><big><b =""=""><big
+                  style="font-weight: bold;"><big><br>
+                  </big></big></b><big><span style="font-weight: bold;">版
+                  權聲明 Copyright</span></big></big><big><b =""=""><br>
+                <br>
+              </b></big></div>
+          <div style="text-align: center;"><big><big> </big>版權©凸桑中文聖經協
+              會, 2001-<br>
+              本材料之版權屬凸桑中文聖經協會所有。<br>
+              為傳揚耶穌基督之福音，本材料僅 供個人參考使用。引用時請註明出處。<br>
+              未經凸桑中文聖經協會許可, 不得利 用本材料以任何形式出版營營利。 </big><big><big><br>
+                <br>
+              </big>Copyright © Tucson Chinese Bible Society, 2001-<br>
+              The copyright of this material belongs to Tucson Chinese
+              Bible Society. <br>
+              To proclaim the gospel of Jesus Christ, the material is
+              provided for your personal use only. Please indicate the
+              source when quoting. <br>
+              Without prior written agreement with Tucson Chinese Bible
+              Society, the material may not be reproduced for profit in
+              any form or by any means.</big><big><br>
+              <br>
+            </big></div>
+        </div>
+        <div id="tab_links">
+          <table style="height: 224px; width: 455px;" aling="center">
+            <tbody>
+              <tr>
+                <td>
+                  <ul>
+                    <li><a href="http://www.amazingbible.org/"
+                        target="_blank">Amazing Bible</a></li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <ul>
+                    <li><a
+                        href="http://www.gospelcom.net/ibs/bibles/chinese"
+                        target="_blank">The Bible Gateway</a></li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <ul>
+                    <li><a href="http://www.o-bible.com/dlb.html"
+                        target="_blank">Bible Link</a></li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <ul>
+                    <li><a href="http://www.ccim.org/" target="_blank">Chinese
+Christian
+
+
+
+                        Internet Mission</a></li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <ul>
+                    <li><a href="http://www.bcbsr.com/topics/life.html"
+                        target="_blank">The Christian Life</a></li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <ul>
+                    <li><a href="http://www.gospelcom.net/"
+                        target="_blank">Gospel Communication Network</a></li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <ul>
+                    <li><a href="http://www.digitalbiblesociety.org/"
+                        target="_blank">Digital Bible Society</a></li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <ul>
+                    <li><a href="http://www.e-sword.net/"
+                        target="_blank">e-Sword</a></li>
+                  </ul>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+    <!-- FOOTER -->
+    <div class="exampleIntro">
+      <p style="text-align: center;">©2001- 凸桑中文聖經協會 --
+        致力於翻譯、推廣中文聖經之非營利機構 <br>
+        Tucson Chinese Bible Society -- A non-profit organization
+        dedicated to the Chinese translation and distribution of The
+        Holy Bible</p>
+    </div>
+    <big>
+      <script>
+(function() {
+    var tabView = new YAHOO.widget.TabView('demo');
+
+    YAHOO.log("The example has finished loading; as you interact with it, you'll see log messages appearing here.", "info", "example");
+})();
+</script><!--END SOURCE CODE FOR EXAMPLE =============================== -->
+      <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+      <script type="text/javascript">
+_uacct = "UA-702706-1";
+urchinTracker();
+</script></big>
+  </body>
+</html>
