@@ -65,38 +65,38 @@ the Chinese translation and distribution of The Holy Bible</p>
   // JUST UPDATE THIS ARRAY WHEN ADDING A NEW BOOK
   // array (name, folder, filename, chapters)
   var books = [
-    ["創世記", "Genesis", "gen ", 50],
-    ["出埃及記", "Exodus", "Exodus ", 20],
-    ["诗篇", "Psalms", "Psalm ", 150],
-    ["箴言", "Proverbs", "Proverbs ", 31],
-    ["约拿書", "Jonah", "Jonah ", 4],
-    ["馬太福音", "Matthew", "Matt", 28],
-    ["馬可福音", "Mark", "mrk", 16],
-    ["路加福音", "Luke", "Luke ", 24],
-    ["約翰福音", "John", "Jhn ", 21],
-    ["使徒行傳", "Acts", "Acts ", 28],
-    ["羅馬書", "Romans", "Romans ", 16],
-    ["哥林多前書", "I cor", "I cor ", 16],
-    ["哥林多後書", "2 Corthianians", "2 cor ", 13],
-    ["加拉太書", "Galatians", "Gal", 6],
-    ["以弗所書", "eph", "Eph ", 6],
-    ["腓立比書", "Phil", "phil ", 4],
-    ["歌羅西書", "Colossians", "Col ", 4],
-    ["帖撒羅尼迦前書", "1 Thess", "1 thess ", 5],
-    ["帖撒羅尼迦後書", "2 thess", "2 Thess ", 3],
-    ["提摩太前書", "1 Timothy", "1tim ", 6],
-    ["提摩太後書", "2 Timothy", "2tim ", 4],
-    ["提多書", "Titus", "titus ", 3],
-    ["腓利門書", "Philemon", "Philemon ", 1],
-    ["希伯來書", "Hebrews", "Hebrews ", 13],
-    ["雅各書", "James", "James", 5],
-    ["彼得前書", "1 Peter", "1 peter ", 5],
-    ["彼得後書", "2 peter", "2 peter ", 3],
-    ["約翰一書", "123John", "1 john ", 5],
-    ["約翰二書", "123John", "2 john ", 1],
-    ["約翰三書", "123John", "3 john ", 1],
-    ["猶大書", "Jude", "JUDE ", 1],
-    ["啟示錄", "Revelation", "rev ", 22],
+ ["創世記", "01Ge", " 創世Gen", 50],
+ ["出埃及記", "02Ex", "出埃Ex", 20],
+ ["诗篇", "19Ps", "詩篇Ps", 150],
+ ["箴言", "20Pr", "箴言Pr", 31],
+ ["约拿書", "32Jon", "約拿Jon", 4],
+ ["馬太福音", "40Mat", "馬太Mat", 28],
+ ["馬可福音", "41Mk", "馬可Mrk", 16],
+ ["路加福音", "42Lk", "路加Luk", 24],
+ ["約翰福音", "43Jn", "約翰Jhn", 21],
+ ["使徒行傳", "44Ac", "使徒Act", 28],
+ ["羅馬書", "45Ro", "羅馬Rom", 16],
+ ["哥林多前書", "46 1Co", "林前1Co", 16],
+ ["哥林多後書", "47 2Co", "林後2Co", 13],
+ ["加拉太書", "48Gal", "加拉太Gal", 6],
+    ["以弗所書", "49Eph", "以弗所Eph", 6],
+    ["腓立比書", "50 Php", "腓立比Php", 4],
+    ["歌羅西書", "51 Col", "歌羅西Col", 4],
+    ["帖撒羅尼迦前書", "52 1Th", "帖前1Th", 5],
+    ["帖撒羅尼迦後書", "53 2Th", "帖後2Th", 3],
+    ["提摩太前書", "54 1Ti", "提前1Ti", 6],
+    ["提摩太後書", "55 2Ti", "提後2Ti", 4],
+    ["提多書", "56 Tit", "提多Tit", 3],
+    ["腓利門書", "57 Phm", "腓利門Phm", 1],
+    ["希伯來書", "58 Heb", "希伯來Heb", 13],
+    ["雅各書", "59 Jas", "雅各Jas", 5],
+    ["彼得前書", "60 1Pe", "彼前1Pe", 5],
+    ["彼得後書", "61 2Pe", "彼後2Pe", 3],
+    ["約翰一書", "62 1Jn", "約壹1Jn", 5],
+    ["約翰二書", "63 2Jn", "約貳2Jhn", 1],
+    ["約翰三書", "64 3Jn", "約參3Jhn", 1],
+    ["猶大書", "65 Jud", "猶大Jud", 1],
+    ["啟示錄", "66 Rev", "啟示Rev", 22],
   ]; 
 
   var navtabs = document.getElementById("navtabs");
@@ -112,30 +112,24 @@ the Chinese translation and distribution of The Holy Bible</p>
 
   // content goes here
   var audidContent = document.getElementById("audio-content");
-  var content = "";
+  var content = ""; 
   for (var i=0; i< books.length; i++) {
   
     content += "<div id=\"tab" + (i+1) + "\">";
     content += "<div style=\"text-align: center;\"><big style=\"font-weight: bold;\"><br>經文朗讀</big>";
     content += "<p style=\"text-align: center;\"><big>";
 
-    for (var j=1; j<books[i][3]; j++) {
+   var chapter = 0;
+   for (var j=1; j<=books[i][3]; j++) {
       
-      if (books[i][3] > 9 && j < 10)
-        chapter = "0" + j;
-      else 
-        chapter = j;      
-
-      content += "<a href=\"http://tucsonchinesebible.org/jmsj/audio/" + books[i][1] + "/" + books[i][2] + chapter + ".mp3\" target=\"_blank\">第" + j + (books[i][1]=="Psalms"?"篇":"章") + "</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;";
-
+      if (books[i][3] > 100 && j < 10) chapter = "00" + j;
+      else if (books[i][3] > 100 && j < 100) chapter = "0" + j;
+      else if (j < 10) chapter="0" + j; 
+      else chapter=j; 
+      content += "<a href=\"http://tcbs.tcccaz.org/jmsj/audio/" + books[i][1] + "/" + chapter + encodeURIComponent(books[i][2]) + ".mp3\" target=\"_blank\">第" + j + (books[i][1]=="Psalms"?"篇":"章") + "</a>";
+      if (j < books[i][3]) content += "&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;"
     }
-
-  
-    if (books[i][3] > 9 && j < 10)
-      chapter = "0".$j;
-    else 
-      chapter = j;
-    content += "<a href=\"http://tucsonchinesebible.org/jmsj/audio/" + books[i][1] + "/" + books[i][2] + chapter + ".mp3\" target=\"_blank\">第" + j + (books[i][1]=="Psalms"?"篇":"章") + "</a>";
+    
     content += "</big></p></div></div>";
   } 
 
