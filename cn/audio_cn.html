@@ -127,7 +127,7 @@ the Chinese translation and distribution of The Holy Bible</p>
         else if (books[i][3] > 100 && j < 100) chapter = "0" + j;
         else if (j < 10) chapter = "0" + j;
         else chapter = j;
-        content += "<a href=\"http://tcbs.tcccaz.org/jmsj/audio/" + books[i][1] + "/" + chapter + books[i][2] + ".mp3\" target=\"_blank\">第" + j + (books[i][1] == "Psalms" ? "篇" : "章") + "</a>";
+        content += "<a href=\"http://tcbs.tcccaz.org/jmsj/audio/" + books[i][1] + "/" + chapter + books[i][2] + ".mp3\" target=\"_blank\">第" + j + (books[i][0] == "诗篇" ? "篇" : "章") + "</a>";
         if (j < books[i][3]) content += "&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;"
       }
 
