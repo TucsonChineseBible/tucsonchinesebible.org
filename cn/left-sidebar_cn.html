@@ -355,7 +355,8 @@ target:"Content" };
 			var max = chapters_nt[n] < k+10 ? chapters_nt[n] : k+10;
 			for ( var i = k; i < max ; i++ ) {
 
-				var myobj = { label: "第" + (i+1) + "章", href:"pdf_cn/s-" + books_file_nt[n] + (i+1) + ".pdf", target:"Content" };
+ var myobj = { label: "第" + (i+1) + "章", href:"/pdfjs/web/viewer.html?file=/cn/pdf_cn/s-" + books_file_nt[n] + (i+1) + ".pdf",
+target:"Content" };
 				var tmpNode = new YAHOO.widget.MenuNode(myobj, node, false);
 
 			}
