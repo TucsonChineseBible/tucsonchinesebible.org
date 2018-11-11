@@ -12,11 +12,20 @@
 	<meta NAME="keywords" CONTENT="新译简明圣经, tcbs, bible, Chinese, Christ, God, Jesus, gospel, holy, testament, church, translation">
 	<meta NAME="description" CONTENT="A Dynamic, New Chinese Translation of The Holy Bible by Tucson Chinese Bible Society.">
 	<meta NAME="author" CONTENT="Dr. Gene Hsiao">
+	<style>
+ 		.scroll-wrapper { 
+			 -webkit-overflow-scrolling: touch; overflow-y: scroll; /* important: dimensions or positioning here! */
+		} 
+		.scroll-wrapper iframe { /* nada! */ }
+
+	</style>
 </head>
 <FRAMESET frameborder=0 COLS="205, *">
 	<frame name="navPage" src="left-sidebar_cn.html">
 	<frameset rows="*, 40">
-	  	<frame name="Content" src="content_cn.html">
+		<div class="scroll-wrapper">
+			<frame name="Content" src="content_cn.html">
+		</div>
 	</frameset>
 </FRAMESET>
 </html>
